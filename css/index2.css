@@ -1,0 +1,952 @@
+/* onisoa css */
+
+@import url('https://rsms.me/inter/inter.css');
+@import url("https://db.onlinewebfonts.com/c/9e00143409affcb46a1ae58634aa64be?family=Sofia+Pro");
+/* une pédagogie innovante */
+
+.pedagogie-innovante{
+
+   width: 262.2px;
+   height: 25px;
+   /* left: calc(50% - 380px/2 - 647px); */
+   /* top: calc(50% - 36px/2 - 1993.5px); */
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16.56px;
+   line-height: 20px;
+   letter-spacing: -0.025em;
+   text-transform: uppercase;
+   
+   color: #FB5875;
+}
+
+/* Du sourcing à la formation continue en passant par le placement, on s’occupe de tout. */
+
+.sourcing-formation{
+   width: 612px;
+   height: 133.86px;
+   left: 84.87px;
+   top: 2233.53px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 900;
+   font-size:30.5px;
+   line-height: 119.52%;
+   /* or 60px */
+   
+   letter-spacing: 0.01em;
+   
+   color: #000000;
+}
+/* 3) Sourcing et Placement */
+
+.sourcing-placement{
+   position: absolute;
+   width: 612.03px;
+   height: 297.39px;
+   left: 71.87px;
+   top: 2110px;
+
+}
+
+/* Rectangle 149 */
+
+.rectangle-149{
+   position: relative;
+   background: rgba(255, 204, 0, 0.6);
+
+}
+/* LayingDoodle 1 */
+
+.layingDoodle-1{
+   position: absolute;
+   width: 503px;
+   height: 377.43px;
+   left: 684.34px;
+   top: 2271.2px;
+}
+
+/* voir le détail */
+
+.fleche-voir-detail{
+   margin-left: 27px;
+   color: #E9EAEF;
+   font-size: 17px;
+}
+/* Component 2 */
+
+.component-2{
+
+   position: absolute;
+/*    width: 513px;
+   height: 108px; */
+   width: 299px;
+   height: 65px;
+   bottom: 18px;
+   border-style: none;
+    border-image: none;
+   
+   background: #FB5875;
+   border-radius: 20px;
+   
+}
+.voir-detail{
+
+   /* position: absolute; */
+   left: 2.34%;
+   right: 19.49%;
+   top: 1.85%;
+   bottom: -1.85%;
+   
+   margin-left: auto;
+   margin-right: auto;
+   font-family: Sofia Pro;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 20.7px;
+   line-height: 20px;
+   /* display: flex; */
+   align-items: center;
+   text-align: center;
+   text-transform: uppercase;
+   
+   color: #E9EAEF;
+}
+/* Boxes Détails Formation */
+
+.boxes-details{
+
+   position: absolute;
+   width: 1090.2px;
+   height: 292.56px;
+   left: 75.99px;
+   top: 2491.29px;
+   
+}
+.list-rect{
+
+   position: absolute;
+   width: 349.83px;
+   height: 292.56px;
+   
+   background: #F7F7F9;
+   border-radius: 20px;
+}
+/* Rectangle 16 */
+
+/* suivi des étudiants */
+
+.suivie{
+
+   position: absolute;
+   width: 189.22px;
+   height: 24.84px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 17px;
+   line-height: 29px;
+   text-align: center;
+   letter-spacing: -0.02em;
+   text-transform: uppercase;
+   top: 49px;
+   left: 72px;
+   color: #FB5875;
+}
+
+
+/* Nous tenons à suivre l’évolution de nos étudiants pour leur réussite. Ils profitent alors d’un accompagnement personnalisé par : - Un mentor dédié - Un Teacher dédié - Un Gestionnaire de carrière - Un Coach spécialisé en neuro-science - … */
+
+.tenons{
+
+   left: 17.25px;
+   top: 106.95px;
+   position: absolute;
+   width: 313.95px;
+   height: 174.57px;
+   /* display: flex; */
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 15.87px;
+   align-items: center;
+   text-align: center;
+   color: #ABADB6;
+
+
+   
+}
+/* Rectangle 17 */
+.rectangle-17{
+   left: 369.84px;
+}
+/* Soft skills */
+
+.soft{
+   top: 49px;
+   left: 28.29px;
+   position: absolute;
+   width: 262.2px;
+   height: 24.84px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 17px;
+   line-height: 20px;
+   text-align: center;
+   letter-spacing: -0.02em;
+   text-transform: uppercase;
+   
+   color: #FB5875;
+} 
+
+
+/* Rectangle 17 */
+.rectangle-18{
+   left: 741.06px;
+}
+
+/* Si dans le milieu professionnel nous attendons des salariés qu’ils excellent par leurs compétences et connaissances, il est tout aussi important de permettre à l’étudiant de comprendre les rouages de la vie professionnelle. Des SoftCamps sont donnés à tous nos étudiants pour qu’ils puissent évoluer sans difficultés. */
+
+.milieu-professionnel{
+
+   left: 15.18px;
+   top: 106.95px;
+   position: absolute;
+   width: 322.23px;
+   height: 243.57px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 15.87px;
+      /* display: flex; */
+   align-items: center;
+   text-align: center;
+   
+   color: #ABADB6;
+   
+}
+/* blended learning */
+
+.blended{
+   left: 45px;
+   top: 49px;
+   position: absolute;
+   width: 262.2px;
+   height: 24.84px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 17px;
+   line-height: 20px;
+   text-align: center;
+   letter-spacing: -0.03em;
+   text-transform: uppercase;
+   
+   color: #FB5875;
+}
+
+/* Le numérique c’est important, l’humain l’est encore plus lorsqu’il s’agit d’apprentissage. Le mimétisme, l’acculturation, la validation sociale, que des termes qui ne sont pas appris en ligne. */
+
+.numerique-important{
+
+   position: absolute;
+   width: 313px;
+   height: 95.22px;
+   left: 20px;
+   top: 122.13px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 15.87px;
+   /* display: flex; */
+   align-items: center;
+   text-align: center;
+   
+   color: #ABADB6;
+}
+
+
+
+
+
+
+/* Groupe SANS CONTENT */
+
+.Groupe-SANS-CONTENT{
+   position: absolute;
+   width: 431.94px;
+   height: 120.75px;
+   left: 40px;
+   top: 4369.08px;
+   margin-top:181.84px;
+}
+
+/* NOS OFFRES AGENCE */
+
+.NOS-OFFRES-AGENCE{
+
+   position: absolute;
+   width: 199.41px;
+   height: 15.38px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16.56px;
+   line-height: 20px;
+   text-align: center;
+   letter-spacing: -0.02em;
+   text-transform: uppercase;
+   
+   color: #FB5875;
+}
+
+/* Placement en CDI FREELANCE. */
+
+.placement-CDI{
+   left: 12.42px;
+   position: absolute;
+   width: 417.45px;
+   height: 82.7px;
+   top: 22.7px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 900;
+   font-size: 35.19px;
+   line-height: 42.72px;
+   color: #000000;
+}
+
+/* SAYNA Agency place en remote les meilleurs talents digitaux Africains dans le monde entier : en CDD, en CDI, FREELANCE,  pour un jour ou plusieurs années. Chacun des talents placés a suivi un parcours de formation de 3 à 6 mois avant d'être proposé sur une mission, et est accompagné d'un senior. */
+
+.SAYNA-Agency-place{
+   position: absolute;
+   width: 433.6px;
+   height: 150.42px;
+   left: 55.18px;
+   top: 4502.94px;
+   margin-top: 160.31px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: normal;
+   font-size: 13.11px;
+
+   line-height: 156.02%;
+   /* or 30px */
+   
+   text-align: justify;
+   
+   color: #000000;
+}
+
+/* Au delà de nos tarifs attractifs, 82% de la facturation reviens au talent, un modèle juste et équitable loin des sociétés de service classiques. */
+
+.nos-tarifs-attractifs{
+   position: absolute;
+   width: 401.58px;
+   height: 211.83px;
+   left: 766.04px;
+   top: 4546.41px;
+   margin-top: 169.28px;
+   font-family: 'Inter', 'sans-serif';;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 13.11px;
+   line-height: 152%;
+   /* or 30px */
+   
+   text-align: justify;
+   
+   color: #000000;
+}
+
+.gras{
+   font-weight: bolder;
+   font-size:  82.8px;
+}
+
+
+
+/* NOS OFFRES AGENCE */
+
+.NOS-OFFRES-AGENCE-1{
+   position: absolute;
+   width: 199.41px;
+   height: 15.35px;
+   top: 4820.54px;
+   left: 563.04px;
+   margin-top:  156.28px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16.56px;
+   line-height: 20px;
+
+   text-align: center;
+   letter-spacing: -0.02em;
+   text-transform: uppercase;
+   
+   color: #FB5875;
+}
+/* MVP Projet clé en main. */
+
+
+.MVP-Projet{
+position: absolute;
+    width: 417.45px;
+    height: 82.71px;
+    left: 454.71px;
+    top: 4855.45px;
+    margin-top: 156.28px;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 35.19px;
+    line-height: 42.78px;
+
+   text-align: center;
+   
+   color: #000000;
+   
+}
+/* SAYNA Factory rassemble pour vous une équipe de freelances en adéquation avec vos besoins dans un cadre forfaitaire et vous accompagne de la conception à la livraison jusqu’à la maintenance. Engagés au forfait,nous sommes en charge de toute la réalisation du projet. Des premières spécifications jusqu'au livrable final, en passant par le MVP, les itérations et les tests. */
+
+.SAYNA-Factory-rassemble{
+
+   position: absolute;
+   width: 469px;
+   height: 137.16px;
+   left: 449.18px;
+   top: 4964.82px;
+   margin-top:156.28px;
+   text-align: center;
+   
+}
+
+
+
+/* Ellipse 169 */
+
+.ellipse-169{
+   position: absolute;
+   /* width: 694.33px; */
+   /* height: 696.52px; */
+   top: 4625.07px;
+   /* left: -5.52px; */
+   margin-top: 178.73px;
+  color: #FFCC00; 
+border-radius: 20px;
+   /* border-radius: 20px; */
+} 
+
+/* Polygon 5 */
+
+.Polygon-5 {
+   position: absolute;
+   left: 31.74px;
+   top: 4907px;
+   margin-top: 200.4px;
+   border-radius: 20px;
+   
+   /* transform: rotate(83.71deg); */
+}
+
+/* Ellipse 170 */
+
+.ellipse-170{
+   position: absolute;
+   /* width: 377.73px; */
+   /* height: 378.92px; */
+   left: 1023.24px;
+   top: 4402px;
+   /* margin-top: 2888.8px; */
+/* 
+   position: absolute;
+   width: 377.73px;
+   height: 378.92px;
+    left: 1592.03px;
+    top: 6725.29px; */
+
+margin-top: 418.61px;
+
+   
+   border-radius: 20px;
+   /* transform: rotate(19.43deg); */
+}
+
+/* Polygon 6 */
+
+.Polygon-6{
+   position: absolute;
+   /* width: 90.1px; */
+   /* height: 87px; */
+   left: 1154px;
+   top: 4609px;
+   margin-top: 288.28px;
+   color: #FB5875;
+   /*   border-radius: 20px;
+  /*  transform: rotate(-101.81deg); */
+}
+
+/* Rectangle 1922 */
+
+.fleche-decouvrir {
+   margin-left: -17px;
+   color: #E9EAEF;
+   font-size: 13px;
+}
+.btn-decouvrir{
+   position: absolute;
+   width: 151.8px;
+   height: 40.02px;
+   left: 587.19px;
+   top: 5139.81px;
+   margin-top:156.28px;
+   border-style: none;
+   border-image: none;
+   
+   background: #FB5875;
+   border-radius: 100px !important;
+}
+
+/* M'inscrire */
+
+.inscrire{
+   
+   width: 125.58px;
+   height: 36.57px;
+   left: 587.19px;
+   top: 5143.26px;
+   /* margin-top: 417.8px; */
+   font-family: Sofia Pro;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 13.8px;
+   line-height: 13.8px;
+    display: inline-grid;
+   align-items: center;
+   text-align: center;
+   letter-spacing: -0.035em;
+   text-transform: uppercase;
+
+   color: #EBEBF1;   
+}
+
+
+
+/* notre communauté */
+
+.notre-communaute{
+   position: absolute;
+   width: 199.41px;
+   height: 24.84px;
+   top: 5229px;
+   left: 749.22px;
+   margin-top: 290.28px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16.56px;
+   line-height: 20px;
+   display: flex;
+   align-items: center;
+   letter-spacing: -0.02em;
+   text-transform: uppercase;
+   color: #FB5875;
+   
+}
+
+
+/* Nous rassemblons la Communauté digitale la plus qualifiée d’Afrique. */
+
+.rassemblons-communaute{
+   position: absolute;
+   width: 458.51px;
+   height: 133.86px;
+   left: 749.22px;
+   top: 5399.25px;
+   margin-top: 156.28px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 900;
+   font-size: 35.19px;
+   line-height: 42.78px;
+   color: #000000;
+   color: #000000;
+}
+
+/* Profitez dès maintenant de l’expertise de nos 150+ talents formés. Notre communauté constituée d’anciens étudiants, de freelances, d’experts thématiques. */
+
+.profitez-maintenant{
+   position: absolute;
+   width: 420.21px;
+   height: 67.62px;
+   left: 753.91px;
+   top: 5542.77px;
+   margin-top: 156.28px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: normal;
+   font-size: 13.8px;
+   line-height: 126.7%;
+   letter-spacing: -0.025em;
+   color: #000000;
+   
+}
+
+/* Rectangle 27 */
+
+.btn-join{
+   position: absolute;
+   width: 195.96px;
+   height: 40.2px;
+   left: 756.01px;
+   top: 5633.85px;
+   margin-top: 156.28px;
+   border-style: none;
+border-image: none;
+
+   background: #FB5875;
+   border-radius: 100px !important;   
+}
+
+
+/* M'inscrire */
+
+.rejoindre{
+   width: 164.91px;
+   height: 37.95px;
+   left: 779.01px;
+   top: 5636.61px;
+   padding-right: 35px;
+   font-family: Sofia Pro;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 13.8px;
+   line-height: 13.8px;
+    display: inline-grid; 
+   align-items: center;
+   text-align: center;
+   letter-spacing: -0.035em;
+   text-transform: uppercase;
+   
+   color: #EBEBF1;
+}
+
+
+/* Rectangle 1921 */
+
+.rectangle-1921{
+   position: absolute;
+   width: 6.21px;
+   height: 367.77px;
+   left: 727.28px;
+   top: 5341.29px;
+   margin-top: 156.28px;
+}
+.group-69{
+    /* Group 69 */
+
+    /* position: absolute; */
+    width: 667.23px;
+    height: 569.25px;
+    left: 587.19px;
+    top: 5139.81px;
+}
+/* MéDIAS */
+
+.media{
+   left: 77.28px;
+    top: 5851.06px;
+    position: absolute;
+    width: 159.39px;
+    height: 24.18px;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16.56px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    color: #FB5875;
+}
+
+/* Découvrez-nous à travers la Presse, TV ... */
+
+.decouvrez-nous{
+   position: absolute;
+   width: 489.57px;
+   height: 82.8px;
+   left: 77.18px;
+   top: 5904.8px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 621;
+   font-size: 35.19px;
+   line-height: 42.78px;
+   color: #000000;
+}
+
+/* SAYNA veut faire connaître ses actions sur tous les médias pour toucher le plus grand nombre. Découvrez nos interviews, reportages, articles et tous les autres contenus. */
+
+.sayna-faire-connaitre{
+   position: absolute;
+   width: 425px;
+   height: 65.55px;
+   left: 77px;
+   top: 6011.23px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: normal;
+   font-size: 14px;
+   line-height: 156.02%;
+   text-align: justify;
+   color: #000000; 
+}
+/* Component 2 */
+
+.component-2a{
+
+   position: absolute;
+   left: 77.87px;
+   top: 6116px;
+   width: 380px;
+   height: 65px;
+   bottom: 18px;
+   border-style: none;
+   border-image: none;
+   background: #FB5875;
+   border-radius: 20px !important;
+   
+}
+/* ils parlent de nous */
+
+.ils-parlent-de-nous{
+
+   
+   
+   font-family: Sofia Pro;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 17px;
+   line-height: 20.7px;
+   /* display: flex; */
+   align-items: center;
+   text-align: center;
+   text-transform: uppercase;
+   
+   color: #E9EAEF;
+}
+
+.fleche-ils-parlent{
+   margin-left: 13px;
+   color: #E9EAEF;
+   font-size: 17px;
+}
+/* IMG_4281 1 */
+
+.img-4281{
+   position: absolute;
+   width: 548.53px;
+   height: 336.26px;
+   left: 619.4px;
+   top: 5874px;
+   border-radius: 20px;
+}
+
+
+/* attendez, ne partez pas ! */
+
+.attendez-ne-partez{
+   top: 6362.5px;
+   left: 84.9px;
+   position: absolute;
+   width: 391.9px;
+   height: 42px;
+font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16.6px;
+   line-height: 20px;
+   letter-spacing: -0.02em;
+   text-transform: uppercase;
+   
+   color: #FB5875;
+   
+}
+
+/* Nous sommes aussi présents sur YOUTUBE ! */
+
+.nous-sommes-aussi{
+
+   position: absolute;
+    width: 823px;
+    /* height: 72px; */
+    left: 83.5px;
+    top: 6401px;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 27.2px;
+    line-height: 42px;
+    color: #000000;
+}
+
+
+
+/* youtube-2433301 1 */
+
+.youtube-2433301 {
+   position: absolute;
+   width: 65.55px;
+   height: 65.55px;
+   left: 552.97px;
+   top: 6483.24px;
+}
+
+
+/* Slider #2 */
+
+.slider-2{
+
+   position: absolute;
+   left: 4.9%;
+   right: 5.26%;
+   top: 90.79%;
+   bottom: 4.26%;
+   
+}
+
+/* Rectangle */
+
+.rectangle{
+
+   position: absolute;
+   width: 2814px;
+   height: 470px;
+   left: 0px;
+   top: 9935px;
+   
+   background: #000000;
+}
+
+
+/* Bg */
+
+.Bg{
+   position: absolute;
+   left: 163.53px;
+   top: 6520.5px;
+   
+}
+
+/* Bg 1 */
+
+.Bg-1{
+
+   position: absolute;
+   left: 12.86px;
+   top: 6561.9px;;
+   
+   background: #EEF2F4;
+   border-radius: 5px;
+}
+/* Bg 2 */
+
+.Bg-2{
+   position: absolute;
+   left: 357.76px;
+   top: 6533.61px;
+   color: #D1DBE3;
+   /* box-shadow: 0px 40px 80px rgba(0, 0, 0, 0.2); */
+   border-radius: 5px;
+}
+
+/* Bg 3 */
+
+.Bg-3{
+
+   position: absolute;
+   left: 813.16px;
+   top: 6561.9px;
+
+   
+   background: #EEF2F4;
+   border-radius: 5px;
+}
+
+/* miniature 1 */
+
+.miniature-1{
+
+   position: absolute;
+    width: 195.27px;
+    height: 42.78px;
+    left: 103.28px;
+    top: 6653.67px;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 35.19px;
+    line-height: 62px;
+   /* identical to box height */
+   
+   
+   color: #000000;
+}
+
+/* miniature 2 */
+
+.miniature-2{
+   position: absolute;
+   width: 206.31px;
+   height: 43.47px;
+   left: 502.07px;
+   top: 6653.67px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 900;
+   font-size: 35.19px;
+   line-height: 62px;
+   color: #000000;
+}
+
+/* miniature 3 */
+
+.miniature-3{
+   position: absolute;
+   width: 217.35px;
+   height: 51.06px;
+   left: 917.41px;
+   top: 6653.67px;
+   font-family: 'Inter', 'sans-serif';
+   font-style: normal;
+   font-weight: 900;
+   font-size: 35.19px;
+   line-height: 62px;   
+   color: #000000;
+}
+
+
+
+.fleche-connexion{
+   margin-left: -13px;
+   color: #E9EAEF;
+   font-size: 14px;
+}
+
+
+.Groupe-8{
+ 
+   position: absolute; 
+   width: 27.6px;
+   height: 19.32px;
+   left: 604px;
+   top: 9px;
+   font-size:30px;
+   color: #575F6B;
+}

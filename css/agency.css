@@ -1,0 +1,1718 @@
+
+
+/* AGENCY */
+
+
+/* Logo_Sayna */
+
+.logo1{
+    position: absolute;
+    width: 320px;
+    height: 102px;
+    left: 60px;
+    top: 55px;
+ }
+/* Rectangle 3 */
+
+.selection-menu{
+    background: #FFCC00;
+ }
+ 
+ .selection-txt{
+    color: #F2F2F7;
+ }
+ /* Forme 4 */
+ 
+ .forme4-agency{
+    
+   position: absolute;
+   /* left: -23.29%; */
+   right: 84.17%;
+   top: 150px;
+   bottom: 87.26%;
+
+   color: #FFCC00;
+   
+ }
+ 
+ /* nous plaçons des héros. */
+ 
+ .placons-des-heros{
+ 
+    position: absolute;
+    left: 5.78%;
+    right: 0.62%;
+    top: 2.63%;
+    bottom: 91.09%;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 135px;
+    line-height: 144px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    
+    color: #000000;
+ }
+ 
+ 
+ .placons-des-heros{
+ 
+    position: absolute; 
+    width: 1797px;
+    height: 596px;
+    left: 111px;
+    top: 170px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 135px;
+    line-height: 144px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    color: #000000;
+ }
+ 
+ 
+ .des-heros-1{
+    position: absolute;
+    width: 1797px;
+    height: 596px;
+    left: 111px;
+    top: 547px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 185px;
+    line-height: 95.02%;
+    /* or 176px */
+ 
+    /* display: flex; */
+    align-items: center;
+    letter-spacing: -0.045em;
+    text-transform: uppercase;
+    color: #000000;
+ }
+ 
+ 
+ /* Les meilleurs talents Africains de demain chez SAYNA. */
+ 
+ .meilleurs-talents-africains{
+ 
+    position: absolute;
+    /* width: 1289px;
+    height: 51px; */
+    left: 120px;
+    top: 761px;
+    
+    /* font-family: Antipasto Pro; */
+    font-style: normal;
+    font-weight: bold;
+    font-size: 41px;
+    line-height: 43px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    
+    color: #6E6E6E;
+ }
+ 
+ /* globe-312668 1 */
+ 
+ .globe-312668-1{
+ 
+    position: absolute;
+    /* width: 439px;
+    height: 436px; */
+    left: 1242px;
+    top: 279px;
+    
+ }
+ 
+ 
+ /* pourquoi l’agency ? */
+ 
+ .pourquoi-l-agency{
+ 
+    top: 1057px;
+    left: 122px;
+    position: absolute;
+    width: 279px;
+    height: 36px;
+    /* left: calc(50% - 279px/2 - 698.5px);
+    top: calc(50% - 36px/2 - 3675px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+    
+ }
+ 
+ 
+ /* Sayna place les meilleurs talents digitaux Africains pour répondre à vos besoins. */
+ 
+ .sayna-place-les-meilleurs{
+ 
+    position: absolute;
+    width: 1056px;
+    height: 244px;
+    left: 121px;
+    top: 1104px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 61px;
+    letter-spacing: 0.01em;
+    
+    color: #000000;
+ }
+ 
+ /* Grâce à vous, un étudiant pourra rembourser sa formation et devenir indépendant financièrement. La Flexibilité est un élément clé : SAYNA s’adapte à vos demandes, pour une journée de travail ou pour une semaine jusqu’à 2 ans, nous vous mettons à disposition les talents que nous avons formés. La formation c’est bien, mais trouver un travail c’est mieux ! C’est pour cette raison que nous accompagnons tous nos talents sur la durée dans leur insertion professionnelle. */
+ 
+ .grace-a-vous{
+ 
+    position: absolute;
+    width: 833px;
+    height: 240px;
+    left: 122px;
+    top: 1247px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 156.02%;
+    /* or 30px */
+    
+    text-align: justify;
+    
+    color: #000000;
+    
+ }
+ 
+ /* Rectangle 161 */
+ 
+ .rectangle-161a{
+ 
+    position: absolute;
+    width: 216px;
+    height: 70px;
+    left: 123px;
+    top: 1529px;
+    
+    background: #FB5875;
+    border-radius: 100px;
+ }
+ 
+ /* nos talents */
+ 
+ .nos-talents{
+ 
+    /* position: absolute; */
+    /* width: 216px;
+    height: 70px; */
+    left: 123px;
+    top: 1529px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 150.02%;
+    /* or 27px */
+    
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+ }
+ 
+ /* transparence */
+ 
+ .transparence{
+ 
+    left: 1606px;
+    top: 1671px;
+    position: absolute;
+    width: 192px;
+    height: 37px;
+    /* left: calc(50% - 192px/2 + 743px);
+    top: calc(50% - 37px/2 - 3060.5px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: right;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ /* La transparence : 82 % d’un revenu est là où il doit être , au talent. */
+ 
+ .transparence-82{
+ 
+    position: absolute;
+    width: 1046px;
+    height: 113px;
+    left: 754px;
+    top: 1711px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 119.52%;
+    /* or 60px */
+    
+    text-align: right;
+    letter-spacing: 0.01em;
+    
+    color: #000000;
+ }
+ 
+ /* Loin des modèles traditionnels des sociétés de service, nous sommes là pour revaloriser le talent et son travail. Nous sommes votre tiers de confiance. */
+ 
+ .modeles-traditionnels{
+ 
+    position: absolute;
+    width: 830px;
+    height: 73px;
+    left: 967px;
+    top: 1860px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 156.02%;
+    /* or 30px */
+    
+    text-align: right;
+    
+    color: #000000;
+ }
+ 
+ /* Component 8 */
+ 
+ .component-8{
+ 
+    position: absolute;
+    
+    left: 1419px;
+    top: 1962px;
+ }
+ 
+ /* Rectangle 15 */
+ 
+ .rectangle-15c{
+ 
+    width: 239px;
+    height: 58px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    background: #FFCC00;
+    border-radius: 20px;
+    
+ }
+ 
+ /* voir nos offres */
+ 
+ .nos-offres{
+ 
+    /* position: absolute; */
+    left: 0%;
+    right: 15.9%;
+    top: 6.9%;
+    bottom: 0%;
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 18px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #000000;
+ }
+ 
+ /* les métiers enseignés chez sayna */
+ 
+ .metiers-enseignes{
+ 
+    left: 122px;
+    top: 2104px;
+    position: absolute;
+    width: 447px;
+    height: 36px;
+    /* left: calc(50% - 447px/2 - 614.5px);
+    top: calc(50% - 36px/2 - 2628px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+    
+ }
+ 
+ 
+ /* Les types de profils que l’on retrouve chez nous. */
+ 
+ .types-de-profils{
+ 
+    position: absolute;
+    width: 732px;
+    height: 111px;
+    left: 122px;
+    top: 2152px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 119.52%;
+    /* or 60px */
+    
+    letter-spacing: 0.01em;
+    
+    color: #000000;
+    
+ }
+ 
+ 
+ /* Après avoir appris les fondamentaux du web, tu peux aller plus loin et te spécialiser dans un des métiers du digital qui connait le plus de pénurie sur le marché international : développeur, data engineer, marketing digitale et vente... */
+ 
+ .apres-avoir-appris-les-fondamentaux{
+ 
+    position: absolute;
+    width: 640px;
+    height: 116px;
+    left: 123px;
+    top: 2294px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 156.02%;
+    /* or 30px */
+    
+    text-align: justify;
+    
+    color: #000000;
+ }
+ 
+ .unboxingDoodle{
+    /* UnboxingDoodle */
+ 
+ 
+    position: absolute;
+    width: 739px;
+    height: 554px;
+    left: 1098px;
+    top: 2036px;
+ }
+ 
+ 
+ 
+ .service-1-1a{
+ 
+    left: 212.76px;
+    top: 2594.34px;
+    position: absolute;
+    width: 540px;
+    height: 448px;
+    /* left: calc(50% - 540px/2 - 512px);
+    top: calc(50% - 448px/2 - 372px); */
+ 
+    border-radius: 19px;   
+ }
+ 
+ 
+ .service-1-2a{
+ 
+    top: 2594.34px;
+    left: 752.76px;
+ 
+ 
+    position: absolute;
+    width: 540px;
+    height: 448px;
+    /* left: calc(50% - 540px/2 + 28px);
+    top: calc(50% - 448px/2 - 372px); */
+    
+    border-radius: 19px;
+ }
+ 
+ 
+ 
+ .service-1-3a{
+ 
+    left: 1292.76px;
+    top: 2594.34px;
+    position: absolute;
+    width: 540px;
+    height: 448px;
+    /* left: calc(50% - 540px/2 + 568px);
+    top: calc(50% - 448px/2 - 372px); */
+    
+    border-radius: 19px;
+ }
+ 
+ 
+ .service-1a{
+ 
+    position: absolute;
+    left: 212.76px;
+    right: 67.9%;
+    top: 3042.34px;
+    bottom: 47.3%;
+ }
+ 
+ 
+ .service-2a{
+ 
+    position: absolute;
+    left: 753.76px;
+    right: 39.78%;
+    top: 3042.34px;
+    bottom: 47.3%;
+ }
+ 
+ 
+ 
+ .service-3a{
+ 
+    position: absolute;
+    left: 1292.76px;
+    right: 11.65%;
+    top: 3042.34px;
+    bottom: 47.3%;
+ }
+ 
+ 
+ /* Rectangle 161 */
+ 
+ .rectangle-161b{
+ 
+     position: absolute;
+     width: 216px;
+     height: 70px;
+     left: 852px;
+     top: 3500px;
+     
+     background: #FB5875;
+     border-radius: 100px !important; 
+ }
+ 
+ /* curriculum */
+ 
+ .curriculum{
+ 
+     position: absolute;
+     /* width: 216px;
+     height: 66px; */
+     /* left: 852px;
+     top: 3504px; */
+     left: 41px;
+     top: 19px;
+     font-family: Sofia Pro;
+     font-style: normal;
+     font-weight: 600;
+     font-size: 18px;
+     line-height: 150.02%;
+     /* or 27px */
+     
+     /* display: flex; */
+     align-items: center;
+     text-align: center;
+     letter-spacing: 0.005em;
+     text-transform: uppercase;
+     
+     color: #FFFFFF;
+ }
+ 
+ 
+ /* Rectangle 1942 */
+ 
+ .rectangle-1942{
+ 
+     position: absolute;
+     width: 1041px;
+     height: 380px;
+     left: 0px;
+     top: 3663px;
+     
+     background: #FFCC00;
+     border-radius: 0px 30px 30px 0px;
+ }
+ 
+ /* Comment ca marche ? */
+ 
+ .comment-ca-marche{
+ 
+     position: absolute;
+     width: 288px;
+     height: 29px;
+     top: 46px ;
+     left: 123px;
+     /* left: calc(50% - 288px/2 - 693px);
+     top: calc(50% - 29px/2 - 1026.5px); */
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: 600;
+     font-size: 24px;
+     line-height: 29px;
+     /* identical to box height */
+     
+     letter-spacing: -0.025em;
+     text-transform: uppercase;
+     
+     color: #FB5875;
+ }
+ 
+ /* #1 Déposez votre besoin en dix petites minutes */
+ 
+ .deposez-votre-besoin{
+ 
+     position: absolute;
+     width: 841px;
+     height: 117px;
+     left: 124px;
+     top: 100px;
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: 900;
+     font-size: 50px;
+     line-height: 61px;
+     letter-spacing: 0.02em;
+     
+     color: #000000;
+     
+ }
+ 
+ /* Répondez à un simple questionnaire pour que nous puissions avoir une première idée de vos besoins et attentes : indiquez les technologies, le type de profil, le secteur d’activité en question, les tâches globales de la mission. */
+ 
+ .repondez-a-un-simple-questionnaire{
+ 
+     position: absolute;
+     width: 833px;
+     height: 90px;
+     left: 123px;
+     top: 249px;
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 19px;
+     line-height: 156.02%;
+     /* or 30px */
+     
+     
+     color: #000000;
+ }
+ 
+ 
+ /* Component 3 */
+ 
+ .component-3{
+ 
+     position: absolute;
+     width: 252px;
+     height: 53px;
+     left: 123px;
+     top: 353px;
+     
+ }
+ /* Rectangle 15 */
+ 
+ .rectangle-15d{
+ 
+     position: absolute;
+     left: 0%;
+     right: 0%;
+     top: 0%;
+     bottom: 0%;
+     
+     background: #FB5875;
+     border-radius: 20px !important; 
+ }
+ 
+ /* QUESTIONNAIRE */
+ 
+ .questionnaire{
+     position: absolute;
+     left: 46px;
+     /* right: 12.9%; */
+     top: 17px;
+     /* bottom: -1.37%; */
+     font-family: Sofia Pro;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 18px;
+     line-height: 18px;
+     /* display: flex; */
+     align-items: center;
+     text-align: center;
+     text-transform: uppercase;
+     color: #E9EAEF;
+ }
+ 
+ /* Rectangle 1947 */
+ 
+ .rectangle-1947{
+ 
+     position: absolute;
+     width: 1048px;
+     height: 417px;
+     left: 884px;
+     top: 4179px;
+     
+     background: #F2F2F7;
+     border: 11px solid #FB5875;
+     box-sizing: border-box;
+     box-shadow: 0px 4px 15px rgba(251, 88, 117, 0.3);
+     border-radius: 30px 0px 0px 30px;
+ }
+ 
+ /* NIVEAUX ET MODALITés d’évaluations */
+ 
+ .niveaux-et-modalites{
+ 
+     left: 446px;
+     top: 59px;
+     position: absolute;
+     width: 472px;
+     height: 36px;
+     /* left: calc(50% - 472px/2 + 606px);
+     top: calc(50% - 36px/2 - 494px); */
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: 600;
+     font-size: 24px;
+     line-height: 29px;
+     letter-spacing: -0.025em;
+     text-transform: uppercase;
+     
+     color: #FB5875;
+     
+ }
+ 
+ /* #2 Clarifiez votre besoin autour d’un café. */
+ 
+ .clarifiez-votre-besoin{
+ 
+     position: absolute;
+     width: 660px;
+     height: 116px;
+     left: 248px;
+     top: 112px;
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: 900;
+     font-size: 50px;
+     line-height: 61px;
+     text-align: right;
+     letter-spacing: 0.02em;
+     
+     color: #000000;
+ }
+ 
+ /* Prenez rendez-vous avec nous sur notre agenda pour que l’on puisse échanger sur les besoins que vous avez exprimés dans le questionnaire. L’idée de cet appel est de reserrer le périmètre de notre intervention et d’ajuster nos offres à votre situation. */
+ 
+ .prenez-rendez-vous{
+ 
+     position: absolute;
+     width: 833px;
+     height: 90px;
+     left: 80px;
+     top: 260px;
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 19px;
+     line-height: 156.02%;
+     /* or 30px */
+     
+     text-align: right;
+     
+     color: #000000;
+ }
+ 
+ /* Component 9 */
+ 
+ .component-9{
+ 
+     position: absolute;
+     width: 270px;
+     height: 58px;
+     left: 643px;
+     top: 373px;
+     
+ }
+ /* Rectangle 15 */
+ 
+ .rectangle-15e{
+ 
+     position: absolute;
+     left: 0%;
+     right: 0%;
+     top: 0%;
+     bottom: 0%;
+     
+     background: #FFCC00;
+     border-radius: 20px !important;
+ }
+ 
+ /* PRENDRE RDV */
+ 
+ .prendre-rdv{
+ 
+     position: absolute;
+     left: 47px;
+     right: 13.47%;
+     top: 5.17%;
+     bottom: 0%;
+     
+     font-family: Sofia Pro;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 18px;
+     line-height: 18px;
+     display: flex;
+     align-items: center;
+     text-align: center;
+     text-transform: uppercase;
+     
+     color: #000000;
+ }
+ 
+ /* Vector */
+ 
+ .fleche-rdv{
+ 
+     position: absolute;
+     left: 83.33%;
+     right: 10.37%;
+     top: 34.48%;
+     bottom: 36.21%;
+     
+     color: #000000;
+ }
+ 
+ 
+ /* Rectangle 1939 */
+ 
+ .rectangle-1939{
+ 
+     position: absolute;
+     width: 1041px;
+     height: 406px;
+     left: 0px;
+     top: 4683px;
+     
+     background: #FFCC00;
+     border-radius: 0px 30px 30px 0px;
+ }
+ 
+ /* séléction */
+ 
+ .selection{
+ 
+     position: absolute;
+     width: 138px;
+     height: 36px;
+     left: 123px;
+     top: 48px;
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: 600;
+     font-size: 24px;
+     line-height: 29px;
+     letter-spacing: -0.025em;
+     text-transform: uppercase;
+     
+     color: #FB5875;
+     
+ }
+ 
+ /* #3 Découvrez notre sélection de profils coup de coeur, pour vous ! */
+ 
+ .decouvrez-notre-selection{
+ 
+     position: absolute;
+     width: 1009px;
+     height: 114px;
+     left: 121px;
+     top: 102px;
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: 900;
+     font-size: 50px;
+     line-height: 119.52%;
+     /* or 60px */
+     
+     letter-spacing: 0.01em;
+     
+     color: #000000;
+ }
+ 
+ /* Recruter un talent chez SAYNA c’est avoir accès à deux talents. Tout au long de leur mission les talents qui travaillent ont le support d’un talent senior derrière eux. Nous vous ferons une sélection sur mesure suite à vos demandes ! */
+ 
+ .recruter-un-talent{
+ 
+     position: absolute;
+     width: 611px;
+     height: 116px;
+     left: 123px;
+     top: 249px;
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 19px;
+     line-height: 156.02%;
+     /* or 30px */
+     
+     
+     color: #000000;
+     
+ }
+ 
+ /* Rectangle 1941 */
+ 
+ .rectangle-1941{
+ 
+     position: absolute;
+     width: 1271px;
+     height: 407px;
+     left: 661px;
+     top: 5226px;
+     
+     background: #F2F2F7;
+     border: 11px solid #FB5875;
+     box-sizing: border-box;
+     box-shadow: 0px 4px 15px rgba(251, 88, 117, 0.3);
+     border-radius: 30px 0px 0px 30px;
+ }
+ 
+ /* séléction */
+ 
+ .selection{
+ 
+     position: absolute;
+     width: 140px;
+     height: 21.75px;
+     top: 60px;
+     left: 1008px;/* 
+     left: calc(50% - 140px/2 + 779px);
+     top: calc(50% - 21.75px/2 + 546.87px); */
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: 600;
+     font-size: 24px;
+     line-height: 29px;
+     letter-spacing: -0.025em;
+     text-transform: uppercase;
+     
+     color: #FB5875;
+     
+ }
+ 
+ /* #4 Entretenez vous avec le talent que vous avez choisi pour en savoir plus sur lui ! */
+ 
+ .entretenez-vous{
+  
+     position: absolute;
+     width: 1111px;
+     height: 78.7px;
+     left: 27px;
+     top: 117px;
+ 
+     font-family: Inter;
+     font-style: normal;
+     font-weight: 900;
+     font-size: 50px;
+     line-height: 119.52%;
+     /* or 60px */
+ 
+     text-align: right;
+     letter-spacing: 0.01em;
+ 
+     color: #000000;   
+ }
+ 
+ /* C’est l’avant dernière étape avant que votre héro démarre la mission que vous lui avez confié. Le but de ce café téléphonique est d’en savoir un peu plus l’un sur l’autre. */
+ 
+ .c-est-l-avant-derniere{
+ 
+     position: absolute;
+     width: 640px;
+     height: 95.27px;
+     left: 497px;
+     top: 260px;
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 19px;
+     line-height: 156.02%;
+     /* or 30px */
+     
+     text-align: right;
+     
+     color: #000000;
+ }
+ 
+ /* Component 5 */
+ 
+ .component-5{
+ 
+     position: absolute;
+     width: 270px;
+     height: 60.06px;
+     left: 841px;
+     top: 372px;
+ }
+ 
+ /* PRENDRE RDV */
+ 
+ .prendre-rdv1{
+ 
+     position: absolute;
+     left: 0%;
+     right: 13.47%;
+     top: 5.17%;
+     bottom: 0%;
+     
+     font-family: Sofia Pro;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 18px;
+     line-height: 18px;
+     display: flex;
+     align-items: center;
+     text-align: center;
+     text-transform: uppercase;
+     
+     color: #000000;
+ }
+ 
+ 
+ /* Rectangle 1951 */
+ 
+ .rectangle-1951{
+ 
+     position: absolute;
+     width: 1018px;
+     height: 378px;
+     left: 0px;
+     top: 5749px;
+     
+     background: #FFCC00;
+     border-radius: 0px 30px 30px 0px;
+ }
+ 
+ 
+ /* séléction */
+ 
+ .selection1{
+ 
+     position: absolute;
+     width: 137px;
+     height: 36px;
+     left: 432px;
+     top: 48px;
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: 600;
+     font-size: 24px;
+     line-height: 29px;
+     letter-spacing: -0.025em;
+     text-transform: uppercase;
+     
+     color: #FB5875;
+ }
+ 
+ /* #5 Validez les conditions, le contrat & envoyez votre set up au talent ! */
+ 
+ .validez-les-conditions{
+ 
+     position: absolute;
+     width: 958px;
+     height: 114px;
+     left: 20px;
+     top: 103px;
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: 900;
+     font-size: 50px;
+     line-height: 119.52%;
+     /* or 60px */
+     
+     text-align: center;
+     letter-spacing: 0.01em;
+     
+     color: #000000;
+     
+ }
+ 
+ /* Il ne vous reste qu’à valider les conditions échangés ensemble, signer le contrat, la facture et envoyer votre environnement de travail au talent ! */
+ 
+ .Il-ne-vous-reste-qu-a-valider{
+ 
+     position: absolute;
+     width: 640px;
+     height: 88px;
+     left: 179px;
+     top: 250px;
+     
+     font-family: Inter;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 19px;
+     line-height: 156.02%;
+     /* or 30px */
+     
+     text-align: center;
+     
+     color: #000000;
+ }
+ 
+ 
+ /* Découvrez nos modalités d’évaluation ! */
+ 
+ .decouvrez-nos-modalites{
+ 
+    position: absolute;
+    width: 426px;
+    height: 67px;
+    left: 747px;
+    top: 6371px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    
+    color: #000000;
+ }
+ 
+ /* Chacun de nos talents sont évalués et validés sur les CINQ verticales ci-dessous; On ne vous présente que des profils se situant entre les niveaux “Juste” et “Excellent”.. */
+ 
+ .chacun-de-nos-talents{
+ 
+    position: absolute;
+    width: 640px;
+    height: 85px;
+    left: 640px;
+    top: 6499px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 156.02%;
+    /* or 30px */
+    
+    text-align: center;
+    
+    color: #000000;
+ }
+ 
+ /* Forme 4 */
+ 
+ .forme-4-agency{
+ 
+    position: absolute;
+    /* left: -28.07%;
+    right: 87.61%; */
+    top: 6676px;
+    
+    color: #FFCC00;
+ /*    transform: matrix(0.7, 0.72, 0.72, -0.7, 0, 0); */
+ }
+ 
+ /* Forme 5 */
+ 
+ .forme-5-agency{
+ 
+    position: absolute;
+    left: 1395px;
+    top: 6438px;
+ 
+    color: #FFCC00;
+    /* transform: rotate(143.7deg); */
+ }
+ 
+ /* Rectangle 162 */
+ 
+ .rectangle-162a{
+  
+    position: absolute;
+    width: 216px;
+    height: 70px;
+    left: 1420px;
+    top: 6755px;
+ 
+    background: #FB5875;
+    border-radius: 100px !important;  
+ }
+ 
+ /* Rectangle 162 */
+ 
+ .rectangle-162b{
+ 
+    position: absolute;
+    width: 216px;
+    height: 70px;
+    left: 1281px;
+    top: 6891px;
+    
+    background: #FB5875;
+    border-radius: 100px !important;
+ }
+ 
+ /* Rectangle 163 */
+ 
+ .rectangle-163a{
+ 
+    position: absolute;
+    width: 216px;
+    height: 70px;
+    left: 1173px;
+    top: 7029px;
+    
+    background: #FB5875;
+    border-radius: 100px !important;
+ }
+ 
+ /* Rectangle 164 */
+ 
+ .rectangle-164a{
+ 
+    position: absolute;
+    width: 216px;
+    height: 70px;
+    left: 1281px;
+    top: 7167px;
+    
+    background: #FB5875;
+    border-radius: 100px !important;
+ }
+ 
+ /* Rectangle 165 */
+ 
+ .rectangle-165a{
+ 
+    position: absolute;
+    width: 216px;
+    height: 70px;
+    left: 1420px;
+    top: 7305px;
+    
+    background: #FB5875;
+    border-radius: 100px !important;
+ }
+ 
+ 
+ /* une solution à chaque situation */
+ 
+ .une-solution-a-chaque-situation{
+ 
+    left: 545px;
+    top: 7564px;
+    position: absolute;
+    width: 831px;
+    height: 36px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ /* Recruter n’a jamais été aussi FACILE ! */
+ 
+ .recruter{
+ 
+    position: absolute;
+    width: 1039px;
+    height: 191px;
+    left: 440px;
+    top: 7549px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 61px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.01em;
+    
+    color: #000000;
+ }
+ 
+ /* Rectangle 1936 */
+ 
+ .rectangle-1936{
+ 
+    position: absolute;
+    width: 732px;
+    height: 212px;
+    left: 178px;
+    top: 7842px;
+    
+    background: #FFCC00;
+    border-radius: 20px 20px 0px 0px;
+ }
+ 
+ /* offre start-(up) */
+ 
+ .offre-start-up{
+ 
+    position: absolute;
+    width: 732px;
+    height: 93px;
+    top: 11px;
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 150.02%;
+    /* or 72px 
+    
+    display: flex;*/
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+ }
+ 
+ /* L’offre idéale pour commencer avec nous : recrutement immédiat et sur mesure pour staffer un projet ou une petite équipe tech et gérer sa trésorerie. */
+ 
+ .offre-ideale{
+ 
+    position: absolute;
+    width: 696px;
+    height: 130px;
+    left: 19px;
+    top: 102px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 150.02%;
+    /* or 29px */
+    /* 
+    display: flex; */
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    
+    color: #3D3D3D;
+ }
+ 
+ /* Rectangle 1937 */
+ 
+ .rectangle-1937{
+ 
+    position: absolute;
+    width: 732px;
+    height: 710px;
+    top: 8054px;
+    left: 178px;
+    /* 
+    top: 8054px; */
+    
+    background: #FFFFFF;
+    border-radius: 0px 0px 15px 15px;
+ }
+ 
+ /* 18% du TJM du talent reversé à SAYNA jusqu’à ce que la formation soit remboursée 15% du TJM de frais de placement 3% du TJM de frais de gestion : internet, local, environnement 64% du TJM reversé intégralement au développeur, celui qui crée la valeur 45 € de TJM à 150 € de TJM selon les profils Tarif dégressif au fil des jours. */
+ 
+ .du-TJM-du-talent-reverse{
+ 
+    position: absolute;
+    width: 481px;
+    height: 486px;
+    left: 10px;
+    /* top: 8054px; */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150.02%;
+    /* or 30px */
+    
+   /*  display: flex; */
+    align-items: center;
+    letter-spacing: 0.005em;
+    
+    color: #000000;
+    
+    
+ }
+ 
+ /* - Freelances formés, vérifiés et qualifiés par nos soins - Matching en quelques heures - Prise de rendez-vous en ligne avec nos experts - Signature électronique - Facturation et paiements simplifiés - Support en ligne */
+ 
+ .freelances-formes{
+ 
+    position: absolute;
+    width: 650px;
+    height: 223px;
+    left: 45px;
+    top: 486px;
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150.02%;
+    /* or 27px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    
+    color: #898989;
+    
+ }
+ 
+ 
+ /* Rectangle 1938 */
+ 
+ .rectangle-1938{
+ 
+    position: absolute;
+    width: 732px;
+    height: 212px;
+    left: 1009px;
+    top: 7842px;
+    
+    background: #FFCC00;
+    border-radius: 20px 20px 0px 0px;
+ }
+ 
+ 
+ /* offre corporate */
+ 
+ .offre-corporate{
+ 
+    position: absolute;
+    width: 732px;
+    height: 93px;
+    left: 1009px;
+    top: 7853px;
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 150.02%;
+    /* or 72px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+ }
+ 
+ /* Rectangle 186 */
+ 
+ .rectangle-186{
+ 
+    position: absolute;
+    width: 732px;
+    height: 710px;
+    left: 1009px;
+    top: 8053px;
+    
+    background: #FFFFFF;
+    border-radius: 0px 0px 15px 15px;
+ }
+ 
+ 
+ /* GroovyDoodle */
+ 
+ .groovyDoodle{
+ 
+    position: absolute;
+ /*    width: 806.43px;
+    height: 604.38px; */
+    left: 42.58px;
+    top: 6326px;
+    
+    transform: rotate(20.09deg);
+ }
+ 
+
+ /* Rectangle */
+ 
+ .rectangle{
+ 
+    position: absolute;
+    left: 8.47%;
+    right: 18.84%;
+    top: 5.66%;
+    bottom: 9.77%;
+    
+    background: #F7F7F9;
+    border-radius: 20px;
+    width: 392.5px;
+    height: 378.9px;
+ }
+ 
+ 
+ /* développeur web Ruby On Rails */
+ 
+ .developpeur-web-Ruby{
+ 
+    position: absolute;
+    left: 65px;
+    right: 18.89%;
+    top: 5.58%;
+    bottom: 62.28%;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ 
+ /* Deviens un développeur Web Full Stack avec Ruby On Rails : la technologie de Airbnb, Twitter et d’autres géants de la tech. */
+ 
+ .deviens-un-developpeur-web{
+ 
+ 
+    left: 6px;
+    top: 56px;
+    position: absolute;
+    width: 392px;
+    height: 333px;
+    /* left: 46px;
+    top: 71px; */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.025em;
+    
+    color: #898989;
+ }
+ 
+ /* Service 1 2 */
+ 
+ .service-1-2{
+ 
+    top: 4154px;
+    left: 718px;
+ 
+ 
+    position: absolute;
+    width: 540px;
+    height: 448px;
+    /* left: calc(50% - 540px/2 + 28px);
+    top: calc(50% - 448px/2 - 372px); */
+    
+    border-radius: 19px;
+ }
+ 
+ /* Deviens un développeur Web Full Stack avec NodeJS & React, les tâchons tendances sur le marché et bientôt incontournables. */
+ 
+ .deviens-un-developpeur-nodejs{
+ 
+    position: absolute;
+    width: 392px;
+    height: 333px;
+    left: 46px;
+    top: 71px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.025em;
+    
+    color: #898989;
+    
+ }
+ 
+ /* Service 1 3 */
+ 
+ .service-1-3{
+ 
+    left: 1258px;
+    top: 4154px;
+    position: absolute;
+    width: 540px;
+    height: 448px;
+    /* left: calc(50% - 540px/2 + 568px);
+    top: calc(50% - 448px/2 - 372px); */
+    
+    border-radius: 19px;
+ }
+ 
+ /* Service 1 */
+ 
+ .service-1{
+ 
+    position: absolute;
+    left: 178px;
+    right: 67.9%;
+    top: 4627px;
+    bottom: 47.3%;
+ }
+ 
+ /* data engineer */
+ 
+ .data-engineer{
+ 
+    position: absolute;
+    left: 102px;
+    top: 71px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ /* Service 1 */
+ 
+ .service-2{
+ 
+    position: absolute;
+    left: 718px;
+    right: 39.78%;
+    top: 4627px;
+    bottom: 47.3%;
+ }
+ 
+ .dev-front{
+    margin-top: auto;
+    margin-left: auto;
+ }
+ 
+ /* DEVELOPPEUR FRONT END - DESIGNER UX/UI */
+ 
+ .developpeur-front-end{
+ 
+    position: absolute;
+    left: 44px;
+ 
+    top: 5.58%;
+    bottom: 62.28%;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+    
+ }
+ 
+ /* Service 1 */
+ 
+ .service-3{
+ 
+    position: absolute;
+    left: 1258px;
+    right: 11.65%;
+    top: 4627px;
+    bottom: 47.3%;
+ }
+ 
+ 

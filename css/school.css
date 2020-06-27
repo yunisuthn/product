@@ -1,0 +1,2762 @@
+
+
+
+/* Logo_Sayna */
+
+.logo1{
+    position: absolute;
+    width: 320px;
+    height: 102px;
+    left: 60px;
+    top: 55px;
+ }
+/* school */
+
+.school{
+
+    width: 170px;
+    height: 68px;
+    left: calc(50% - 170px/2 + 14px);
+    top: calc(50% - 68px/2 - 5108.5px);
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+    
+    color: #575F6B;
+ }
+ 
+ /* Rectangle 3 */
+ 
+ .rectangle-3{
+ 
+    position: absolute;
+    width: 174px;
+    height: 70px;
+    left: 1101px;
+    top: 56px;
+    
+    background: #F2F2F7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+ }
+ 
+ /* agency */
+ 
+ .agency{
+    width: 169px;
+    height: 70px;
+    left: calc(50% - 169px/2 + 228.5px);
+    top: calc(50% - 70px/2 - 5108.5px);
+ 
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+ 
+    color: #575F6B;
+ }
+ 
+ /* Rectangle 4 */
+ 
+ .rectangle-4{
+ 
+    position: absolute;
+    width: 174px;
+    height: 70px;
+    left: 1312px;
+    top: 56px;
+    
+    background: #F2F2F7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+ }
+ 
+ /* factory */
+ .factory{
+ 
+    width: 169px;
+    height: 56px;
+    left: calc(50% - 169px/2 + 437.5px);
+    top: calc(50% - 56px/2 - 5108.5px);
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+    
+    color: #575F6B;
+ }
+ 
+ /* Rectangle 6 */
+ 
+ .rectangle-6{
+ 
+    position: absolute;
+    width: 228px;
+    height: 70px;
+    left: 1523px;
+    top: 56px;
+    background: #FB5875;
+    border-radius: 50px;
+ }
+ 
+ 
+ /* connexion */
+ 
+ .connection{
+ 
+    width: 191px;
+    height: 70px;
+    left: calc(50% - 191px/2 + 657.5px);
+    top: calc(50% - 70px/2 - 5108.5px);
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.05em;
+    text-transform: uppercase;
+    list-style: none;
+    color: #E9EAEF;
+ }
+ 
+ /* Menu */
+ 
+ 
+ .menu{
+ 
+    position: absolute;
+    width: 996px;
+    height: 73px;
+    left: 889px;
+    top: 56px;
+    
+    }
+ /* Group 12 */
+ 
+ .groupe-12{
+    position: absolute;
+    /* width: 1299.26px;
+    height: 901.2px; */
+    left: 1035px;
+    top: 2770px;    
+    /* left: 954px;
+    top: 2746px;
+ */
+    color: #FFCC00;
+ }
+ /* une pédagogie innovante */
+ 
+ .pedagogie-innovante{
+ 
+    width: 380px;
+    height: 36px;
+    left: calc(50% - 380px/2 - 647px);
+    top: calc(50% - 36px/2 - 1993.5px);
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ /* Du sourcing à la formation continue en passant par le placement, on s’occupe de tout. */
+ 
+ .sourcing-formation{
+ 
+    width: 887px;
+    height: 194px;
+    left: 123px;
+    top: 3237px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 119.52%;
+    /* or 60px */
+    
+    letter-spacing: 0.01em;
+    
+    color: #000000;
+ }
+ /* 3) Sourcing et Placement */
+ 
+ .sourcing-placement{
+ 
+    position: absolute;
+    width: 887px;
+    height: 431px;
+    left: 123px;
+    top: 3191px;
+ }
+ 
+ /* Rectangle 149 */
+ 
+ .rectangle-149{
+    position: relative;
+    background: rgba(255, 204, 0, 0.6);
+ 
+ }
+ /* LayingDoodle 1 */
+ 
+ .layingDoodle-1{
+ 
+    position: absolute;
+    width: 729px;
+    height: 547px;
+    left: 1086px;
+    top: 3422px;
+ }
+ 
+ /* Component 2 */
+ 
+ .component-2{
+ 
+    position: absolute;
+    width: 513px;
+    height: 108px;
+    bottom:  0px;
+    
+    background: #FB5875;
+    border-radius: 20px;
+    
+ 
+ }
+ 
+ /* voir le détail */
+ 
+ .voir-detail{
+ 
+    /* position: absolute; */
+    left: 2.34%;
+    right: 19.49%;
+    top: 1.85%;
+    bottom: -1.85%;
+    
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 30px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #E9EAEF;
+ }
+ /* Boxes Détails Formation */
+ 
+ .boxes-details{
+ 
+    position: absolute;
+    width: 1580px;
+    height: 424px;
+    left: 171px;
+    top: 3741px;
+    
+ }
+ .li-rect{
+ 
+    position: absolute;
+    width: 507px;
+    height: 424px;
+    
+    background: #F7F7F9;
+    border-radius: 20px;
+ }
+ /* Rectangle 16 */
+ 
+ .rectangle-16{
+    
+ }
+ 
+ /* suivi des étudiants */
+ 
+ .suivie{
+ 
+    position: absolute;
+    width: 380px;
+    height: 36px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    top: 71px;    
+    left: 41px;
+    color: #FB5875;
+ }
+ 
+ 
+ /* Nous tenons à suivre l’évolution de nos étudiants pour leur réussite. Ils profitent alors d’un accompagnement personnalisé par : - Un mentor dédié - Un Teacher dédié - Un Gestionnaire de carrière - Un Coach spécialisé en neuro-science - … */
+ 
+ .tenons{
+ 
+ 
+    left: 25px;
+    top: 155px;
+    /* left: 198px;
+    top: 3812px; */
+    position: absolute;
+    width: 455px;
+    height: 353px;
+    
+    /* display: flex; */
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 23px;
+    align-items: center;
+    text-align: center;
+    color: #ABADB6;
+ 
+ 
+    
+ }
+ /* Rectangle 17 */
+ .rectangle-17{
+    left: 536px;
+ }
+ /* Soft skills */
+ 
+ .soft{
+ 
+    top: 71px;    
+    left: 41px;
+    position: absolute;
+    width: 380px;
+    height: 36px;
+    /* left: calc(50% - 380px/2 + 3px);
+    top: calc(50% - 36px/2 - 1395.5px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ } 
+ 
+ 
+ /* Rectangle 17 */
+ .rectangle-18{
+    left: 1074px;
+ }
+ 
+ /* Si dans le milieu professionnel nous attendons des salariés qu’ils excellent par leurs compétences et connaissances, il est tout aussi important de permettre à l’étudiant de comprendre les rouages de la vie professionnelle. Des SoftCamps sont donnés à tous nos étudiants pour qu’ils puissent évoluer sans difficultés. */
+ 
+ .milieu-professionnel{
+ 
+    left: 22px;
+    top: 155px;
+    position: absolute;
+    width: 467px;
+    height: 353px;
+    
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 23px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    
+    color: #ABADB6;
+    
+ }
+ /* blended learning */
+ 
+ .blended{
+ 
+    left: 62px;
+    top: 71px;
+    position: absolute;
+    width: 380px;
+    height: 36px;
+    /* left: calc(50% - 380px/2 + 535px);
+    top: calc(50% - 36px/2 - 1395.5px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ /* Le numérique c’est important, l’humain l’est encore plus lorsqu’il s’agit d’apprentissage. Le mimétisme, l’acculturation, la validation sociale, que des termes qui ne sont pas appris en ligne. */
+ 
+ .numerique-important{
+ 
+    position: absolute;
+    width: 451px;
+    height: 138px;
+    left: 29px;
+    top: 177px; 
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 23px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    
+    color: #ABADB6;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ /* Groupe SANS CONTENT */
+ 
+ .Groupe-SANS-CONTENT{
+ 
+    position: absolute;
+    width: 626px;
+    height: 174.99px;
+    left: 100px;
+    top: 6332px;
+ }
+ 
+ /* NOS OFFRES AGENCE */
+ 
+ .NOS-OFFRES-AGENCE{
+ 
+    position: absolute;
+    width: 289px;
+    height: 22.25px;
+ 
+    /* left: calc(50% - 289px/2 - 715.5px);
+    top: calc(50% - 22.25px/2 + 1140.62px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ /* Placement en CDI FREELANCE. */
+ 
+ .placement-CDI{
+ 
+    left: 18px;
+    position: absolute;
+    width: 605px;
+    height: 119.88px;
+    /* left: 121px;
+    top: 6387.1px; */
+    top: 32.85px; 
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 51px;
+    line-height: 62px;
+    
+    color: #000000;
+ }
+ 
+ /* SAYNA Agency place en remote les meilleurs talents digitaux Africains dans le monde entier : en CDD, en CDI, FREELANCE,  pour un jour ou plusieurs années. Chacun des talents placés a suivi un parcours de formation de 3 à 6 mois avant d'être proposé sur une mission, et est accompagné d'un senior. */
+ 
+ .SAYNA-Agency-place{
+ 
+    position: absolute;
+    width: 640px;
+    height: 218px;
+    left: 122px;
+    top: 6526px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 156.02%;
+    /* or 30px */
+    
+    text-align: justify;
+    
+    color: #000000;
+ }
+ 
+ .rectangle-147{
+    background-color: rgb(255, 204, 0,0.57) ;
+ }
+ 
+ /* Au delà de nos tarifs attractifs, 82% de la facturation reviens au talent, un modèle juste et équitable loin des sociétés de service classiques. */
+ 
+ .nos-tarifs-attractifs{
+ 
+    position: absolute;
+    width: 582px;
+    height: 307px;
+    left: 1216px;
+    top: 6589px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 156.02%;
+    /* or 30px */
+    
+    text-align: justify;
+    
+    color: #000000;
+ }
+ 
+ .gras{
+    font-weight: bolder;
+    font-size: 120px;
+ }
+ 
+ 
+ 
+ /* NOS OFFRES AGENCE */
+ 
+ .NOS-OFFRES-AGENCE-1{
+ 
+    position: absolute;
+    width: 289px;
+    height: 22.25px;
+    top:6986.29px;
+    left:  816px;
+    /* 
+    left: calc(50% - 289px/2 + 0.5px);
+    top: calc(50% - 22.25px/2 + 1794.91px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ /* MVP Projet clé en main. */
+ 
+ 
+ .MVP-Projet{
+ 
+    position: absolute;
+    width: 605px;
+    height: 119.88px;
+    left: 659px;
+    top: 7036.89px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 51px;
+    line-height: 62px;
+    text-align: center;
+    
+    color: #000000;
+    
+ }
+ /* SAYNA Factory rassemble pour vous une équipe de freelances en adéquation avec vos besoins dans un cadre forfaitaire et vous accompagne de la conception à la livraison jusqu’à la maintenance. Engagés au forfait,nous sommes en charge de toute la réalisation du projet. Des premières spécifications jusqu'au livrable final, en passant par le MVP, les itérations et les tests. */
+ 
+ .SAYNA-Factory-rassemble{
+ 
+    position: absolute;
+    width: 620.75px;
+    height: 198.78px;
+    left: 650.98px;
+    top: 7195.39px;
+    text-align: center;
+    
+ }
+ 
+ 
+ 
+ /* Ellipse 169 */
+ 
+ .ellipse-169{
+ 
+    position: absolute;
+    /* width: 694.33px;
+    height: 696.52px; */
+    top: 6703px;
+    
+    border-radius: 20px;
+ } 
+ 
+ /* Polygon 5 */
+ 
+ .Polygon-5 {
+ 
+    position: absolute;
+    /* width: 207.89px;
+    height: 246.31px; */
+    left: 32px;
+    top: 7141.9px;
+    
+    border-radius: 20px;
+    /* transform: rotate(83.71deg); */
+ }
+ 
+ /* Ellipse 170 */
+ 
+ .ellipse-170{
+ 
+    position: absolute;
+    /* width: 377.73px;
+    height: 378.92px; */
+    left: 1592px;
+    top: 6725.29px;
+    
+    border-radius: 20px;
+    /* transform: rotate(19.43deg); */
+ }
+ 
+ /* Polygon 6 */
+ 
+ .Polygon-6{
+ 
+    position: absolute;
+    /* width: 113.1px;
+    height: 134px; */
+    left: 1778.07px;
+    top: 6837.07px;
+    
+    /* background: #FB5875; */
+    border-radius: 20px;
+   /*  transform: rotate(-101.81deg); */
+ }
+ 
+ /* Rectangle 1922 */
+ 
+ .rectangle-1922{
+ 
+    position: absolute;
+    width: 220px;
+    height: 58px;
+    left: 851px;
+    top: 7449px;
+    
+    background: #FB5875;
+    border-radius: 100px;
+ }
+ 
+ /* M'inscrire */
+ 
+ .inscrire{
+    
+    /* position: absolute; */
+    width: 182px;
+    height: 53px;
+    left: 851px;
+    top: 7454px;
+ 
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+ 
+    color: #EBEBF1;   
+ }
+ 
+ 
+ 
+ /* notre communauté */
+ 
+ .notre-communaute{
+ 
+    position: absolute;
+    width: 289px;
+    height: 36px;
+    /* left: calc(50% - 289px/2 + 322.5px);
+    top: calc(50% - 36px/2 + 2586.5px); */
+    top: 7771px;
+    left: 1138px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+    
+ }
+ 
+ 
+ /* Nous rassemblons la Communauté digitale la plus qualifiée d’Afrique. */
+ 
+ .rassemblons-communaute{
+ 
+    position: absolute;
+    width: 679px;
+    height: 194px;
+    left: 1139px;
+    top: 7825px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 51px;
+    line-height: 62px;
+    
+    color: #000000;
+ }
+ 
+ /* Profitez dès maintenant de l’expertise de nos 150+ talents formés. Notre communauté constituée d’anciens étudiants, de freelances, d’experts thématiques. */
+ 
+ .profitez-maintenant{
+ 
+    position: absolute;
+    width: 609px;
+    height: 98px;
+    left: 1139px;
+    top: 8033px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 148.87%;
+    /* or 30px */
+    
+    letter-spacing: -0.025em;
+    
+    color: #000000;
+    
+ }
+ 
+ /* Rectangle 27 */
+ 
+ .rectangle-27{
+ 
+    position: absolute;
+    width: 284px;
+    height: 58px;
+    left: 1129px;
+    top: 8165px;
+ 
+    background: #FB5875;
+    border-radius: 100px;   
+ }
+ 
+ 
+ /* M'inscrire */
+ 
+ .rejoindre{
+ 
+    /* position: absolute; */
+    width: 239px;
+    height: 55px;
+    left: 1129px;
+    top: 8169px;
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+    
+    color: #EBEBF1;
+ }
+ 
+ 
+ /* Rectangle 1921 */
+ 
+ .rectangle-1921{
+ 
+    position: absolute;
+    width: 9px;
+    height: 533px;
+    left: 1112px;
+    top: 7741px;
+    
+    background: #FFCC00;
+ }
+ 
+ /* MéDIAS */
+ 
+ .media{
+ 
+    left: 121px ;
+    top: 8574px ;
+    position: absolute;
+    width: 231px;
+    height: 22px;
+    /* left: calc(50% - 231px/2 - 723.5px);
+    top: calc(50% - 22px/2 + 3382.5px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+    
+ }
+ 
+ /* Découvrez-nous à travers la Presse, TV ... */
+ 
+ .decouvrez-nous{
+ 
+    position: absolute;
+    width: 753px;
+    height: 120px;
+    left: 122px;
+    top: 8620px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 51px;
+    line-height: 62px;
+    
+    color: #000000;
+ }
+ 
+ /* SAYNA veut faire connaître ses actions sur tous les médias pour toucher le plus grand nombre. Découvrez nos interviews, reportages, articles et tous les autres contenus. */
+ 
+ .sayna-faire-connaitre{
+ 
+    position: absolute;
+    width: 640px;
+    height: 95px;
+    left: 123px;
+    top: 8767px;
+ 
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 156.02%;
+    /* or 30px */
+ 
+    text-align: justify;
+ 
+    color: #000000;   
+ }
+ /* Component 2 */
+ 
+ .component-2a{
+ 
+    position: absolute;
+    width: 608px;
+    height: 109px;
+    left: 123px;
+    top: 8899px;
+ 
+    
+    background: #FB5875;
+    border-radius: 20px;
+    
+ }
+ /* ils parlent de nous */
+ 
+ .ils-parlent-de-nous{
+ 
+    /* position: absolute; */
+    left: 0%;
+    right: 10.37%;
+    top: 2.8%;
+    bottom: -1.87%;
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 30px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #E9EAEF;
+ }
+ 
+ /* IMG_4281 1 */
+ 
+ .img-4281{
+ 
+    position: absolute;
+    width: 837px;
+    height: 554px;
+    left: 960px;
+    top: 8574px;
+    
+    background: url(IMG_4281.jpg);
+    border-radius: 20px;
+ }
+ 
+ 
+ /* attendez, ne partez pas ! */
+ 
+ .attendez-ne-partez{
+ 
+    top: 9221px;
+    left: 123px;
+    position: absolute;
+    width: 568px;
+    height: 61px;
+   /*  left: calc(50% - 568px/2 - 553px);
+    top: calc(50% - 61px/2 + 4049px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+    
+ }
+ 
+ /* Nous sommes aussi présents sur YOUTUBE ! */
+ 
+ .nous-sommes-aussi{
+ 
+    position: absolute;
+    width: 1193px;
+    height: 55px;
+    left: 121px;
+    top: 9277px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 51px;
+    line-height: 62px;
+    
+    color: #000000;
+ }
+ 
+ 
+ 
+ /* youtube-2433301 1 */
+ 
+ .youtube-2433301{
+ 
+    position: absolute;
+    width: 95px;
+    height: 95px;
+    left: 913px;
+    top: 9396px;
+ }
+ 
+ 
+ /* Slider #2 */
+ 
+ .slider-2{
+ 
+    position: absolute;
+    left: 4.9%;
+    right: 5.26%;
+    top: 90.79%;
+    bottom: 4.26%;
+    
+ }
+ 
+ /* Rectangle */
+ 
+ .rectangle{
+ 
+    position: absolute;
+    width: 2814px;
+    height: 470px;
+    left: 0px;
+    top: 9935px;
+    
+    background: #000000;
+ }
+ 
+ 
+ /* Bg */
+ 
+ .Bg{
+    position: absolute;
+    left: 237px;
+    top: 9450px;
+    
+ }
+ 
+ /* Bg 1 */
+ 
+ .Bg-1{
+ 
+    position: absolute;
+    left: 94px;
+    top: 9510px;
+    
+    background: #EEF2F4;
+    border-radius: 5px;
+ }
+ /* Bg 2 */
+ 
+ .Bg-2{
+    position: absolute;
+    left: 604px;
+    top: 9469px;
+ 
+    color: #D1DBE3;
+    /* box-shadow: 0px 40px 80px rgba(0, 0, 0, 0.2); */
+    border-radius: 5px;
+ }
+ 
+ /* Bg 3 */
+ 
+ .Bg-3{
+ 
+    position: absolute;
+    left: 1264px;
+    top: 9510px;
+    
+    background: #EEF2F4;
+    border-radius: 5px;
+ }
+ 
+ /* miniature 1 */
+ 
+ .miniature-1{
+ 
+    position: absolute;
+    width: 283px;
+    height: 62px;
+    left: 212px;
+    top: 9643px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 51px;
+    line-height: 62px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+ }
+ 
+ /* miniature 2 */
+ 
+ .miniature-2{
+ 
+    position: absolute;
+    width: 299px;
+    height: 63px;
+    left: 803px;
+    top: 9643px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 51px;
+    line-height: 62px;
+    
+    color: #000000;
+ }
+ 
+ /* miniature 3 */
+ 
+ .miniature-3{
+ 
+    position: absolute;
+    width: 315px;
+    height: 74px;
+    left: 1389px;
+    top: 9643px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 51px;
+    line-height: 62px;
+    
+    color: #000000;
+ }
+ 
+ 
+ .pager-container1 {
+    /* text-align: center; */
+    position: absolute; 
+    width: 100%;
+    bottom: 60px;
+    /* left: 0; */
+    display: block;
+    z-index: 3333;
+    height: 12px;
+    padding: 0px;
+    left: 863px ;
+    top: 9895px;
+ 
+ }
+ .pager-container1 a {
+ list-style-type: none;
+ display: inline-block;
+ width: 12px;
+ height: 12px;
+ border-radius: 50%;
+ background-color: #929292;
+ margin-right: 23px;
+    position: relative;
+ }
+ .pager-container1 a.active,
+ .pager-container1 a:hover {
+ background: #FB5875;
+ border-color: #FB5875;
+ }
+ 
+ 
+ 
+ .txt-btn{
+ 
+    /* position: absolute; */
+    width: 170px;
+    height: 68px;
+    /* left: 889px;
+    top: 60px; */
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    display: inline-grid;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+    
+    color: #575F6B;
+    }
+    .txt-agency{
+    
+    /* position: absolute; */
+    width: 169px;
+    height: 70px;
+    left: calc(50% - 169px/2 + 228.5px);
+    top: calc(50% - 70px/2 - 5108.5px);
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    display: inline-grid;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+    
+    color: #575F6B;
+    
+    }
+ .txt-connexion{
+    /* 
+    position: absolute; */
+    width: 191px;
+    height: 70px;
+    left: calc(50% - 191px/2 + 657.5px);
+    top: calc(50% - 70px/2 - 5108.5px);
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    display: inline-grid;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.05em;
+    text-transform: uppercase;
+    
+    color: #E9EAEF;
+    
+    }
+ 
+ 
+ 
+ .btn{
+    padding: 0px !important;
+ }
+ .btn-connexion{
+    /* position: absolute; */
+    width: 228px;
+    height: 70px;
+    left: 1523px;
+    top: 126px;
+    margin-left: 36px;
+ 
+    background-color: #FB5875;
+    border-radius: 50px !important;
+ /* transform: matrix(1, 0, 0, -1, 0, 0); */
+ }
+ .btn-school{
+ 
+    /* position: absolute; */
+    width: 174px;
+    height: 70px;
+    left: 890px;
+    top: 56px;
+    
+    background-color: #F2F2F7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px !important;
+    }
+ .btn-agency{
+ 
+    /* position: absolute; */
+    width: 174px;
+    height: 70px;
+    left: 890px;
+    top: 56px;
+    margin-left: 37px;
+    
+    background-color: #F2F2F7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px !important;
+    }
+ .btn-factory-menu{
+ 
+    /* position: absolute; */
+    width: 174px;
+    height: 70px;
+    left: 890px;
+    top: 56px;
+    margin-left: 37px;
+    
+    background-color: #F2F2F7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px !important;
+    }
+ 
+ 
+ .btn-dropdonw{
+        /* position: absolute; */
+    width: 72px;
+    height: 70px;
+    left: 1788px;
+    top: 56px;
+    margin-left: 37px;
+    
+    background: #F2F2F7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px !important;
+ }
+ /* Group 8 */
+ 
+ .Groupe-8{
+ 
+    /* position: absolute; */
+    width: 40px;
+    height: 28px;
+    left: 1803px;
+    top: 77px;
+    font-size:48px
+ }
+    /* Groupe 294 1 */
+ 
+ .groupe-294{
+    position: absolute;
+    width: 1024px;
+    height: 768px;
+    left: 800px;
+    top: 126px;
+ 
+ }
+ 
+ /* nous formons des héros. */
+ 
+ .formons-des-heros{
+ 
+    position: absolute; 
+    width: 1797px;
+    height: 596px;
+    left: 114px;
+    top: 440px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 135px;
+    line-height: 144px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    color: #000000;
+ }
+ 
+ .des-heros{
+    position: absolute;
+    width: 1797px;
+    height: 596px;
+    left: 114px;
+    top: 819px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 185px;
+    line-height: 95.02%;
+    /* or 176px */
+ 
+    /* display: flex; */
+    align-items: center;
+    letter-spacing: -0.045em;
+    text-transform: uppercase;
+    color: #000000;
+ }
+ 
+ .heros{
+    color: #FFCC00;
+ 
+ }
+ 
+ 
+ .fdh{
+    
+ }
+ /* @font-face {
+    font-family: 'Antipasto Pro';
+    src: url('Zetafonts - AntipastoPro-DemiBold.otf') format('Antipasto Pro');
+    } */
+ /* intégre la meilleure école digitale de madagascar. */
+ 
+ .integre-la-meilleure{
+ 
+    top: 1005px;
+    left: 117px;
+    position: absolute;
+    width: 1227px;
+    height: 41px;
+    /* left: calc(50% - 1227px/2 - 229.5px);
+    top: calc(50% - 41px/2 - 3724.5px); */
+    
+    /* font-family: Antipasto Pro; */
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 43px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    
+    color: #6E6E6E;
+     
+ }
+ 
+ 
+ /* Tu as hâte de nous rencontrer ? Nous aussi ! */
+ 
+ .hate-de-nous-rencontrer{
+ 
+    position: absolute;
+    width: 1165px;
+    height: 194px;
+    left: 352px;
+    top: 1169px;
+    
+    /* font-family: Inter; */
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    
+    color: #000000;
+    
+ }
+ 
+ 
+ 
+ /* Group 5 */
+ 
+ .groupe-5{
+ 
+    position: absolute;
+    width: 335px;
+    height: 187px;
+    left: 309px;
+    top: 1360px;
+ }
+ 
+ /* étape 1 */
+ 
+ .etape-1{
+ 
+    position: absolute;
+    width: 335px;
+    height: 64px;
+    /* left: 309px;
+    top: 1360px; */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+    
+    color: #000000;
+ }
+ 
+ 
+ /* je choisis mon parcours */
+ 
+ .choisis-parcours{
+    
+    position: absolute;
+    width: 239px;
+    height: 52px;
+    left: 44px;
+    top: 74px;
+    /* left: calc(50% - 239px/2 - 483.5px);
+    top: calc(50% - 52px/2 - 3282px); */
+ 
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.017em;
+    text-transform: uppercase;
+ 
+    color: #FB5875;   
+ }
+ 
+ 
+ /* Ellipse 2 */
+ 
+ .ellipse-2{
+ 
+    position: absolute;
+    left: 144px;
+    right: 74.27%;
+    top: 150px;
+    bottom: 83.72%;
+    width: 9px;
+    height: 8px;
+    font-size: 2.7em !important;
+    color: #FB5875;
+    
+ }
+ /* Group 6 */
+ 
+ .groupe-6{
+ 
+    position: absolute;
+    width: 410px;
+    height: 187px;
+    left: 727px;
+    top: 1360px;
+    
+    
+ }
+ /* étape 2 */
+ 
+ .etape-2{
+ 
+    position: absolute;
+    width: 335px;
+    height: 64px;
+    left: 12px;
+    /* top: 1360px; */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+    
+    color: #000000;
+ }
+ 
+ /* je remplis mon formulaire de candidature */
+ 
+ .remplis-mon-formulaire{
+ 
+    left: -20px;
+    top: 58px;
+    position: absolute;
+    width: 410px;
+    height: 88px;
+    /* left: calc(50% - 410px/2 - 28px);
+    top: calc(50% - 88px/2 - 3282px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.017em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+    
+ }
+ 
+ /* Ellipse 3 */
+ 
+ .ellipse-3{
+ 
+    position: absolute;
+    /* right: 50.52%; */
+    top: 150px;
+    left: 159px;
+    font-size: 2.7em !important;
+    
+    color: #FB5875;
+ }
+ 
+ /* Group 7 */
+ 
+ .groupe-7{
+ 
+    position: absolute;
+    width: 351px;
+    height: 187px;
+    left: 1200px;
+    top: 1360px;
+    
+ }
+ 
+ /* étape 3 */
+ 
+ .etape-3{
+ 
+    position: absolute;
+    width: 335px;
+    height: 64px;
+    /* left: 1208px;
+    top: 1360px; */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+    
+    color: #000000;
+ }
+ 
+ 
+ /* je passe mon test en ligne */
+ 
+ .passe-mon-test{
+ 
+    left: -12px;
+    top: 73px;
+ 
+    position: absolute;
+    width: 351px;
+    height: 52px;
+    /* left: calc(50% - 351px/2 + 415.5px);
+    top: calc(50% - 52px/2 - 3282px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.017em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ /* Ellipse 4 */
+ 
+ .ellipse-4{
+ 
+    position: absolute;
+    left: 143px;
+    right: 27.45%;
+    top: 150px;
+    bottom: 83.72%;
+ 
+    font-size: 2.7em !important;
+    color: #FB5875;
+ 
+ }
+ /* Rectangle 28 */
+ 
+ .rectangle-28{
+ 
+    position: absolute;
+    width: 1744px;
+    height: 18px;
+    left: 182px;
+    top: 1520px;
+    
+    background: #FFCC00;
+    border-radius: 6px;
+ }
+ 
+ 
+ /* Group 8 */
+ 
+ .groupe-8{
+ 
+    position: absolute;
+    width: 398px;
+    height: 215px;
+    left: 310px;
+    top: 1666px;
+ }
+ 
+ /* étape 4 */
+ 
+ .etape-4{
+ 
+    position: absolute;
+    width: 335px;
+    height: 64px;
+    /* left: 309px;
+    top: 1666px; */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+    
+    color: #000000;
+ }
+ 
+ /* je bloque un créneau pour passser mon entretien */
+ 
+ .bloque-un-creneau{
+ 
+    top: 73px;
+    left: -25px;
+    position: absolute;
+    width: 398px;
+    height: 123px;
+    /* left: calc(50% - 398px/2 - 484px);
+    top: calc(50% - 123px/2 - 2930.5px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.017em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ .ellipse-etape-4{
+    position: absolute;
+    top: 162px;
+    left: 144px;
+    color:  #FB5875;
+    font-size: 2.7em !important;
+ }
+ /* Group 9 */
+ 
+ .groupe-9{
+ 
+    position: absolute;
+    width: 410px;
+    height: 197px;
+    left: 727px;
+    top: 1665px;
+ }
+ 
+ /* étape 5 */
+ 
+ .etape-5{
+ 
+    position: absolute;
+    width: 335px;
+    height: 64px;
+    left: 12px;
+    /* left: 765px;
+    top: 1665px; */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+    
+    color: #000000;
+ }
+ 
+ /* j’entame les démarches administratives d’inscription */
+ 
+ .entame-les-demarches{
+ 
+    top: 58px;
+    left: -20px;
+    position: absolute;
+    width: 410px;
+    height: 88px;
+    /* left: calc(50% - 410px/2 - 28px);
+    top: calc(50% - 88px/2 - 2967px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.017em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ .ellipse-etape-5{
+ 
+    position: absolute;
+    top: 162px;
+    left: 159px;
+    color:  #FB5875;
+    font-size: 2.7em !important;
+ }
+ 
+ /* Group 10 */
+ 
+ .groupe-10{
+ 
+    position: absolute;
+    width: 525px;
+    height: 206px;
+    left: 1208px;
+    top: 1666px;
+ }
+ 
+ 
+ /* étape 6 */
+ 
+ .etape-6{
+ 
+    position: absolute;
+    width: 335px;
+    height: 64px;
+    /* left: 1208px;
+    top: 1666px; */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+    
+    color: #000000;
+ }
+ 
+ /* je démarre la formation */
+ 
+ .demarre-la-formation{
+ 
+    top: 72px;
+    left: 22px;
+    position: absolute;
+    width: 290px;
+    height: 52px;
+    /* left: calc(50% - 290px/2 + 416px);
+    top: calc(50% - 52px/2 - 2966px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.017em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ 
+ .ellipse-etape-6{
+ 
+    position: absolute;
+    top: 162px;
+    left: 143px;
+    color:  #FB5875;
+    font-size: 2.7em !important;
+ }
+ /* Rectangle 29 */
+ 
+ .rectangle-29{
+ 
+    position: absolute;
+    width: 1698px;
+    height: 16px;
+    left: -6px;
+    top: 1837px;
+    
+    color: #FFCC00;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+ }
+ 
+ /* Ellipse 5 */
+ 
+ .ellipse-5{
+ 
+    position: absolute;
+    left: 1682px;
+    right: 9.74%;
+    top: 1815px;
+    bottom: 80.29%;
+    
+    color: #FFCC00;
+ }
+ 
+ 
+ 
+ /* Component 3 */
+ 
+ .component-3{
+ 
+    position: absolute;
+    width: 561px;
+    height: 88px;
+    left: 656px;
+    top: 1944px;
+ }
+ 
+ 
+ /* Rectangle 15 */
+ 
+ .rectangle-15{
+ 
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    width: 561px;
+    height: 88px;
+    
+    background: #FB5875;
+    border-radius: 20px;
+ }
+ 
+ /* je m’inscris maintenant */
+ 
+ .je-m-inscris{
+ 
+    /* position: absolute; */
+    left: 0%;
+    right: 12.9%;
+    top: 1.37%;
+    bottom: -1.37%;
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 30px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #E9EAEF;
+    
+ }
+ 
+ .fleche{
+    margin-left: 31px;
+    color: #E9EAEF;
+ }
+ 
+ .fleche-connexion{
+    margin-left: -20px;
+    color: #E9EAEF;
+ }
+ 
+ 
+ /* Service 1 1 */
+ 
+ .service-1-1{
+ 
+    left: 178px;
+    top: 4152px;
+    position: absolute;
+    width: 540px;
+    height: 448px;
+    /* left: calc(50% - 540px/2 - 512px);
+    top: calc(50% - 448px/2 - 372px); */
+ 
+    border-radius: 19px;   
+ }
+ 
+ /* Rectangle */
+ 
+ .rectangle{
+ 
+    position: absolute;
+    left: 8.47%;
+    right: 18.84%;
+    top: 5.66%;
+    bottom: 9.77%;
+    
+    background: #F7F7F9;
+    border-radius: 20px;
+    width: 392.5px;
+    height: 378.9px;
+ }
+ 
+ 
+ /* développeur web Ruby On Rails */
+ 
+ .developpeur-web-Ruby{
+ 
+    position: absolute;
+    left: 65px;
+    right: 18.89%;
+    top: 5.58%;
+    bottom: 62.28%;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ 
+ /* Deviens un développeur Web Full Stack avec Ruby On Rails : la technologie de Airbnb, Twitter et d’autres géants de la tech. */
+ 
+ .deviens-un-developpeur-web{
+ 
+ 
+    left: 6px;
+    top: 56px;
+    position: absolute;
+    width: 392px;
+    height: 333px;
+    /* left: 46px;
+    top: 71px; */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.025em;
+    
+    color: #898989;
+ }
+ 
+ /* Service 1 2 */
+ 
+ .service-1-2{
+ 
+    top: 4154px;
+    left: 718px;
+ 
+ 
+    position: absolute;
+    width: 540px;
+    height: 448px;
+    /* left: calc(50% - 540px/2 + 28px);
+    top: calc(50% - 448px/2 - 372px); */
+    
+    border-radius: 19px;
+ }
+ 
+ /* Deviens un développeur Web Full Stack avec NodeJS & React, les tâchons tendances sur le marché et bientôt incontournables. */
+ 
+ .deviens-un-developpeur-nodejs{
+ 
+    position: absolute;
+    width: 392px;
+    height: 333px;
+    left: 46px;
+    top: 71px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.025em;
+    
+    color: #898989;
+    
+ }
+ 
+ /* Service 1 3 */
+ 
+ .service-1-3{
+ 
+    left: 1258px;
+    top: 4154px;
+    position: absolute;
+    width: 540px;
+    height: 448px;
+    /* left: calc(50% - 540px/2 + 568px);
+    top: calc(50% - 448px/2 - 372px); */
+    
+    border-radius: 19px;
+ }
+ 
+ /* Service 1 */
+ 
+ .service-1{
+ 
+    position: absolute;
+    left: 178px;
+    right: 67.9%;
+    top: 4627px;
+    bottom: 47.3%;
+ }
+ 
+ /* data engineer */
+ 
+ .data-engineer{
+ 
+    position: absolute;
+    left: 102px;
+    top: 71px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ /* Service 1 */
+ 
+ .service-2{
+ 
+    position: absolute;
+    left: 718px;
+    right: 39.78%;
+    top: 4627px;
+    bottom: 47.3%;
+ }
+ 
+ .dev-front{
+    margin-top: auto;
+    margin-left: auto;
+ }
+ 
+ /* DEVELOPPEUR FRONT END - DESIGNER UX/UI */
+ 
+ .developpeur-front-end{
+ 
+    position: absolute;
+    left: 44px;
+ 
+    top: 5.58%;
+    bottom: 62.28%;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+    
+ }
+ 
+ /* Service 1 */
+ 
+ .service-3{
+ 
+    position: absolute;
+    left: 1258px;
+    right: 11.65%;
+    top: 4627px;
+    bottom: 47.3%;
+ }
+ 
+ 
+ /* spécialisation */
+ 
+ .specialisation{
+ 
+    left: 121px;
+    top: 5072px;
+    position: absolute;
+    width: 213px;
+    height: 36px;
+    /* left: calc(50% - 213px/2 - 732.5px);
+    top: calc(50% - 36px/2 + 340px); */
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ 
+ /* Beaucoup de pratiques, un peu de théories. Et du fun ! */
+ 
+ .beaucoup-de-pratiques{
+ 
+    position: absolute;
+    width: 1035px;
+    height: 182px;
+    left: 121px;
+    top: 5119px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 119.52%;
+    /* or 60px */
+    
+    letter-spacing: 0.01em;
+    
+    color: #000000;
+ }
+ 
+ 
+ /* Retrouvez l’ensemble de vos challenges, de vos projets et de vos cours sur notre plateforme pédagogique. Accèdez à nos ressources mis à jour continuellement par nos experts. Au programme : du Peer to Peer , des projets pratiques chaque jour, des challenges, un suivi humain personnalisé, du yoga, des ateliers de prise de parole en public. En bref : 20% de théorie et 80% de pratique. */
+ 
+ .retrouvez-l-ensemble{
+ 
+    position: absolute;
+    width: 640px;
+    height: 211px;
+    left: 123px;
+    top: 5255px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 156.02%;
+    /* or 30px */
+    
+    
+    color: #000000;
+    
+ }
+ 
+ /* Component 6 */
+ 
+ .component-6{
+ 
+    position: absolute;
+    width: 297px;
+    height: 58px;
+    left: 292px;
+    top: 5507px;
+ }
+ 
+ /* Rectangle 15 */
+ 
+ .rectangle-15a{
+ 
+    position: absolute;
+    
+    width: 297px;
+    height: 58px;
+    background: #FFCC00;
+    border-radius: 20px;
+ }
+ 
+ /* je m’inscris maintenant */
+ 
+ .je-m-inscris-maintenant{
+ 
+    /* position: absolute; */
+    left: 0%;
+    right: 13.47%;
+    top: 1.72%;
+    bottom: -1.72%;
+    
+    font-family: Sofia Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 15px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #000000;
+ }
+ .fleche-inscris{
+    margin-left: 18px;
+    color: #000000;
+ }
+ 
+ /* Forme 4 */
+ 
+ .forme4{
+ 
+    position: absolute;
+    
+    top: 5665px;
+ }
+ 
+ /* react group 271 */
+ 
+ .react-group-271{
+ 
+    position: absolute;
+    left: 306px;
+    right: 53.49%;
+    top: 5720px;
+    bottom: 35.04%;
+    
+ }
+ 
+ /* spécialisation */
+ 
+ .specialisation1{
+ 
+    left: 1587px;
+    top: 5647px;
+    position: absolute;
+    width: 213px;
+    height: 36px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: right;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+    
+    color: #FB5875;
+ }
+ /* Atteins l’Excellence dans ton domaine ! */
+ 
+ .atteins-l-excellence{
+ 
+    position: absolute;
+    width: 1035px;
+    height: 182px;
+    left: 763px;
+    top: 5694px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 119.52%;
+    /* or 60px */
+    
+    text-align: right;
+    letter-spacing: 0.01em;
+    
+    color: #000000;
+    
+ }
+ 
+ 
+ 
+ /* Notre objectif est de te transmettre la culture de l’excellence. L’objectif de nos parcours est de t’apprendre à maitriser : les hard skills, les compétences de project Management (agilité), les soft skills, la langue française, et la notion d’engagement. Pour mettre plus de fun dans ce parcours, nous avons gamifié le parcours. Chaque semaine est une ‘quête’ qui est composé d’un certain nombre de ‘missions’. Une mission constitue un ensemble de points qui eux même représente des compétences. Tu vas donc devoir accomplir des missions chaque semaine pour valider des compétences. */
+ 
+ .notre-objectif{
+ 
+    position: absolute;
+    width: 830px;
+    height: 291px;
+    left: 968px;
+    top: 5774px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 156.02%;
+    /* or 30px */
+    
+    text-align: right;
+    
+    color: #000000;
+    
+ }
+ 
+ /* Component 7 */
+ 
+ .component-7{
+ 
+    position: absolute;
+    width: 297px;
+    height: 58px;
+    left: 1383px;
+    top: 6056px;
+ }
+ 
+ /* Rectangle 15 */
+ 
+ .rectangle-15b{
+ 
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    background: #FFCC00;
+    border-radius: 20px;
+ }
+ 
+ /* Group 41 */
+ 
+ /* .groupe-41{
+ 
+    position: absolute;
+    width: 216px;
+    height: 70px;
+    left: 513px;
+    top: 6271px;
+ } */
+ 
+ /* Rectangle 161 */
+ 
+ .rectangle-161{
+ 
+    position: absolute;
+    width: 216px;
+    height: 70px;
+    left: 513px;
+    top: 6271px;
+    
+    background: #FB5875;
+    border-radius: 100px;
+ }
+ 
+ /* hard skills */
+ 
+ .hard-skills{
+ 
+    position: absolute; 
+    top: 19px;
+    left: 38px;
+    /* top: 12px;
+    left: 12px; */
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150.02%;
+    /* or 30px */
+    
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+ }
+ 
+ 
+ /* Ton code devra être fonctionnel, claire, performant, bien écris, solide, lisible. Tu seras évalué sur 5 niveaux différents : mauvais, pauvre, juste, bon et excellent. */
+ 
+ .code-fonctionnel{
+ 
+    position: absolute;
+    top: 150px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 150.02%;
+    /* or 29px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    
+    color: #000000;
+    
+ }
+ 
+ /* Rectangle 162 */
+ 
+ .rectangle-162{
+ 
+    position: absolute;
+    width: 216px;
+    height: 70px;
+    left: 760px;
+    top: 6271px;
+    
+    background: #FB5875;
+    border-radius: 100px;
+ }
+ 
+ /* agile pm */
+ 
+ .agile-pm{
+ 
+    position: absolute;
+    left: 60px;
+    top: 19px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150.02%;
+    /* or 30px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+ }
+ 
+ /* On attendra de toi d’être ouvert, respectueux, courageux, rigoureux et concentré. Tu seras évalué sur 5 niveaux différents : mauvais, pauvre, juste, bon et excellent. */
+ 
+ .attendra-de-toi{
+ 
+    top: 125px;
+    position: absolute;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 150.02%;
+    /* or 29px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    
+    color: #000000;
+    
+ }
+ 
+ /* Rectangle 163 */
+ 
+ .rectangle-163{
+ 
+    position: absolute;
+    width: 216px;
+    height: 70px;
+    left: 1007px;
+    top: 6271px;
+    
+    background: #FB5875;
+    border-radius: 100px;
+ }
+ 
+ /* soft skills */
+ 
+ .soft-skills{
+ 
+    left: 45px;
+    top: 19px;
+    position: absolute;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150.02%;
+    /* or 30px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+ }
+ 
+ /* On attendra de toi d’être assidue, professionnel, de travailler en équipe, de communiquer et d’être organisé. Tu seras évalué sur 5 niveaux différents : mauvais, pauvre, juste, bon et excellent. */
+ 
+ .attendra-de-toi-1{
+ 
+    top: 110px;
+    position: absolute;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 150.02%;
+    /* or 29px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    
+    color: #000000;
+    
+ }
+ 
+ /* Rectangle 164 */
+ 
+ .rectangle-164{
+ 
+    position: absolute;
+    width: 216px;
+    height: 70px;
+    left: 1254px;
+    top: 6271px;
+    
+    background: #FB5875;
+    border-radius: 100px;
+ }
+ 
+ /* langue */
+ 
+ .langue{
+ 
+    position: absolute;
+    
+    left: 64px;
+    top: 19px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150.02%;
+    /* or 30px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+ }
+ 
+ 
+ /* On attendra de toi d’avoir un bon vocabulaire, parler assez fort, avoir confiance dans ce que tu dis, prononcer correctement et imbattable sur la grammaire et l’orthographe. Tu seras évalué sur 5 niveaux différents : Les bases, travail limité, efficient, professionnel et native bilingue. */
+ 
+ .attendra-de-toi-2{
+ 
+    position: absolute;
+    top: 69px;
+    width: 216px;
+    height: 414px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 135.52%;
+    /* or 26px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    
+    color: #000000;
+    
+ }
+ 
+ /* Rectangle 165 */
+ 
+ .rectangle-165{
+ 
+    position: absolute;
+    width: 216px;
+    height: 70px;
+    left: 1501px;
+    top: 6271px;
+    
+    background: #FB5875;
+    border-radius: 100px;
+ }
+ 
+ /* engagement */
+ 
+ .engagement{
+ 
+    position: absolute;
+    left: 43px;
+    top: 19px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150.02%;
+    /* or 30px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+ }
+ 
+ 
+ /* On attendra de toi d’être impliqué, volontaire, concerné, confiant en toi et être proactive. Tu seras évalué sur 5 niveaux différents : Novice, débutant, intermédiaire, avancé et expert. */
+ 
+ .attendra-de-toi-3{
+ 
+    position: absolute;
+    width: 216px;
+    height: 414px;
+    top: 52px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 150%;
+    /* or 28px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    
+    color: #000000;
+    
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 

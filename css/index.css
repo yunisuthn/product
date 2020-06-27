@@ -1,0 +1,980 @@
+/*--------header---------*/
+@import url('https://rsms.me/inter/inter.css');
+@import url("https://db.onlinewebfonts.com/c/62e84f8271d32eb452129a0b7d59540d?family=Antipasto+Pro");
+@import url("https://db.onlinewebfonts.com/c/9d942e0ff1014c476713a855710ce309?family=Lato");
+/*background*/
+#background-body{
+
+/* position: absolute; */
+/* width: 1920px; */
+/* height: 10405px; */
+left: 0px;
+/* width: 1200px; */
+top: 0px;
+display: block;
+
+
+background: #E9EAEF;
+}
+/* Forme 1 */
+
+.form1{
+    height: 510px;
+    position: absolute;
+    left: -2.35%;
+    right: 52.02%;
+    top: -0.43%;
+    bottom: 92.37%;
+    
+    /* background: #FFCC00;
+    transform: rotate(3deg); */
+}
+
+/* Logo_Sayna */
+
+.logo1{
+
+position: absolute;
+width: 220.8px;
+height: 70.38px;
+left: 41.4px;
+top: 37.95px;
+}
+/* Une école. Une agence. C’est tout ! */
+
+.agency-text{
+    position: absolute;
+    width: 516.81px;
+    height: 314.09px;
+    left:  69.4px;
+    top: 162px;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 76.94px;
+    line-height: 104.7%;
+    letter-spacing: -0.045em;
+    color: #000000;
+
+}
+.agency-text-white{
+    color: #F2F2F7;
+}
+.btn{
+    padding: 0px !important;
+}
+.menu{
+    position: absolute;
+    width: 646.24px;
+    height: 50.37px;
+    left: 552.41px;
+    top: 38.64px;
+
+}
+.btn-connexion{
+    /* position: absolute; */
+    width: 157.32px;
+    height: 48.3px;
+    left: 1050.87px;
+    top: 86.94px;
+    margin-left: 15px;
+    background-color: #FB5875;
+    border-radius: 50px !important;
+    /* transform: matrix(1, 0, 0, -1, 0, 0); */
+}
+.btn-school{
+
+/* position: absolute; */
+    width: 120.06px;
+    height: 48.3px;
+    left: 614.1px;
+    top: 38.64px;
+
+    background-color: #F2F2F7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px !important;
+}
+.btn-agency{
+
+    /* position: absolute; */
+    width: 120.06px;
+    height: 48.3px;
+    left: 614.1px;
+    top: 38.64px;
+    margin-left: 15px;
+    
+    background-color: #F2F2F7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px !important;
+    }
+ .btn-factory-menu{
+
+        /* position: absolute; */
+    width: 120.06px;
+    height: 48.3px;
+    left: 614.1px;
+    top: 38.64px;
+    margin-left: 15px;
+        
+    background-color: #F2F2F7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px !important;
+}
+
+.txt-btn{
+    width: 117.3px;
+    height: 46.92px;
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16.56px;
+    line-height: 16.56px;
+    display: inline-grid;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+
+    color: #575F6B;
+}
+.txt-agency{
+
+/* position: absolute; */
+    width: 116.61px;
+    height: 48.3px;
+    /* left: calc(50% - 169px/2 + 228.5px); */
+    /* top: calc(50% - 70px/2 - 5108.5px); */
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16.56px;
+    line-height: 16.56px;
+    display: inline-grid;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+
+    color: #575F6B;
+
+}
+.txt-connexion{
+    /* 
+    position: absolute; */
+    width: 131.79px;
+    height: 48.3px;
+    left: calc(50% - 191px/2 + 657.5px);
+    top: calc(50% - 70px/2 - 5108.5px);
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16.56px;
+    line-height: 16.56px;
+    display: inline-grid;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.05em;
+    text-transform: uppercase;
+
+    color: #E9EAEF;
+
+}
+.vector{
+
+/* position: absolute; */
+width: 17px;
+height: 17px;
+left: 1706px;
+top: 83px;
+margin-left: 184px;
+}
+
+.btn-dropdonw{
+    width: 49.68px;
+    height: 48.3px;
+    left: 1233.72px;
+    top: 38.64px;
+    margin-left: 15px;
+    background: #F2F2F7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px !important;
+}
+.form2{
+    position: absolute;
+    width: 178.7px;
+    height: 535.4px;
+    left: 1036px;
+    top: 0px;
+}
+.dame-qui-saute{
+  position: relative;
+    left: 126%;
+    right: -2.94%;
+    top: -37px;
+    width: 537px;
+}
+/*--------header---------*/
+.news-letter{
+    /* SAYNA Newsletter */
+
+    position: absolute;
+    width: 589.26px;
+    height: 104.88px;
+    left: 127.65px;
+    top:591.66px;
+}
+.digital-school{
+    /* sayna, l‘école DIGITALE innovante. */
+
+
+/* position: absolute; */
+    width: 588.57px;
+    height: 31.05px;
+    left: 126.27px;
+    top: 630.66px;
+    font-family: Antipasto Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38.6px;;
+    line-height: 30.36px;/* identical to box height */
+
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+
+    color: #6E6E6E;
+
+}
+.form-news-ltr{
+    position: relative;
+    width: 545px !important;
+    height: 57.27px !important;
+    left: 0;
+    top: 15.5px;
+    padding-left: 46px !important;
+    margin-top: 6.9px;
+    background: #FAFAFA;
+    box-shadow: inset 4px 4px 10px rgba(0, 0, 0, 0.15) !important;
+    border-radius: 40px !important;
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px !important;
+    line-height: 20px !important;
+     display: block;
+    z-index: 1;
+    align-items: center;
+    /* text-align: center; */
+    letter-spacing: -0.015em;
+
+    color: rgba(110, 110, 110, 0.51) !important;
+}
+.btn-news-ltr{
+    position: relative;
+    width: 190.44px !important;
+    height: 57.96px !important;
+    left: 355.35px;
+    top: -42.8px;
+    display: block;
+    z-index: 2;
+
+    background: #E4E4E4 !important;
+    box-shadow: 4px 10px 20px rgba(0, 0, 0, 0.07) !important;
+    border-radius: 0px 40px 40px 0px !important;
+}
+.news-form{
+    position: absolute;
+}
+.label-news-1{
+
+    /* position: absolute; */
+    width: 209.07px;
+    height: 35.88px;
+    left: 479.55px;
+    top: 692px;
+    margin-bottom: 0px;
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19.32px;
+    /* line-height: 28px; */
+    display: block;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #6E6E6E;
+}
+.label-news-2{
+    
+/* position: absolute; */
+width: 180.78px;
+    height: 18.63px;
+    left: 491.28px;
+    top: 705.18px;
+    font-family: Antipasto Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16.11px;
+/* line-height: 16px; */
+/* display: flex; */
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #6E6E6E;
+}
+
+
+
+         /*-----------partenaire------------*/
+
+.partner{
+    position: absolute;
+    width: 783.84px;
+    height: 94.5px;
+    left: 271.17px;
+    top: 818.34px;
+
+
+}
+/*text1*/
+.partner-text1{
+        /* height: 52px; */
+    /* left: calc(50% - 359px/2 - 0.5px); */
+    /* top: calc(50% - 52px/2 - 3990.5px); */
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17.56px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.017em;
+    text-transform: uppercase;
+
+    color: #FB5875;
+}
+/*text2*/
+.partner-text2{
+    /* position: absolute;
+width: 627px; */
+    /* height: 64px; */
+    left: 446.43px;
+    top: 838.35px;
+    font-family:'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+
+    color: #6E6E6E;
+
+}
+
+/*partenaire logo*/
+.partner-logo{
+
+    width: 783.84px;
+    height: 46.9px;
+    left: 271.2px;
+    top: 865.95px;
+
+}
+.partner-list li{
+    list-style: none;
+    float: left;
+}
+.logo-maltme{
+
+/* position: absolute; */
+    width: 130px;
+    height: 33.8px;
+    left: 271px;
+    top: 871.7px;
+
+    background: url("../imageModification/logo_maltem_groupe-HD-e1473777081392\ 1.png") no-repeat;
+}
+.logo-orange{
+
+    /* position: absolute; */
+    width: 43.9px;
+    height: 40px;
+    left: 410.1px;
+    top: 867.31px;
+    
+    background: url("../imageModification/1022px-Orange_logo\ 1\ 1.png") no-repeat;
+}
+.logo-accessbanque{
+    /* position: absolute; */
+    width: 171.8px;
+    height: 43.5px;
+    left: 462.74px;
+    top: 865.95px;
+
+    background: url("../imageModification/AccèsBanque\ Madagascar\ 1.png");
+}
+.logo-axiangroup{
+    /* position: absolute; */
+    width: 94.3px;
+    height: 42.1px;
+    left: 643.35px;
+    top: 870.71px;
+
+    background: url("../imageModification/Axian\ 1.png");
+}
+.logo-groupeBanqueMoandial{
+    /* position: absolute; */
+    width: 303.45px;
+    height: 35.98px;
+    left: 751.56px;
+    top: 870.7px;
+
+    background: url("../imageModification/logo-wb-header-fr-newsletter\ 1.png");
+}
+
+         /*-----partenaire------*/
+         
+         
+         
+.form3{
+    
+    position: absolute;
+    width: 462.96px;
+    height: 472.96px;
+    left: 741px;
+     top: 915px;
+        
+/* background: #FFCC00; */
+}
+.image-businessman{
+    position: absolute;
+    /*width: 1921px;
+    height: 1083px;
+    left: 608px;
+    top: 1077px;
+    */
+    width: 422.49px;
+    height: 648.27px;
+    left: 768px;
+    top: 938px;
+
+    background: url("../imageModification/Vieux\ Businessman\ 1.png") no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: contain;
+}
+
+/*gars géant*/
+.image1 {
+    position: absolute;
+    width: 616.1px;
+    height: 614.78px;
+    left: 0px;
+    top: 1426.66px
+
+}
+.pantalon1{
+    position: absolute;
+    width: 244.25px;
+    height: 246.93px;
+    left: 109.93px;
+    top: 1686.87px;;
+
+}
+
+/*nos formations*/
+.formation {
+    width: 262.2px;
+    height: 24.84px;
+    left: 1035px;
+    /* top: calc(50% - 36px/2 - 2883.5px); */
+    font-family:'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16.56px;
+    line-height: 20px;
+    letter-spacing: -0.025em;
+    text-transform: uppercase;
+
+    color: #FB5875;
+
+
+}
+
+/*formation + bootcamps + selection + bouton*/
+.ensemble {
+    position: absolute;
+    width: 471.27px;
+    height: 422.28px;
+    left: 716.91px;
+    top: 1473.69px;
+}
+
+/*des bootcamps adaptés ..*/
+.bootcamps {
+    position: absolute;
+    width: 492.35px;
+    height: 83.49px;
+    left: 2.4px;
+    top: 34.5px;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 34.16px;
+    line-height: 107.6%;
+    letter-spacing: 0.02em;
+    color: #000000;
+
+
+}
+
+/* parcourir le catalogue*/
+.bouton {
+    position: absolute;
+    height: 71.76px;
+    width: 388.87px;
+    left: 0%;
+    right: 0%;
+    top: 345px;
+    bottom: 0%;
+    border-style: none;
+    border-image: none;
+    background: #FB5875;
+    border-radius: 20px !important;
+    font-family: "Lato";
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 20.7px !important;
+    line-height: 20.7px !important;
+
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #E9EAEF !important;
+
+
+}
+
+/*sélectionnez votre track ...*/
+.selection {
+	position: absolute;
+    width: 441.49px;
+    height: 97.98px;
+    left: 8.28px;
+    top: 146.28px;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.56px;
+    line-height: 156.02%;
+    color: #000000;
+
+}
+
+
+.group13 {
+	/* Group 13 */
+
+    position: absolute;
+/* width: 1099.26px;
+height: 901.2px; */
+    left: -15px;
+    top: 3369.27px;
+
+/*transform: matrix(-1, 0, 0, 1, 0, 0);*/
+
+}
+
+.ellips7 {/* Ellipse 7 */
+
+position: absolute;
+width: 152px;
+height: 152px;
+left: 662.26px;
+top: 5191px;
+
+background: #FFCC00;
+transform: matrix(-1, 0, 0, 1, 0, 0);}
+
+.temoign {
+    position: absolute;
+    width: 317.4px;
+    height: 24.84px;
+    left: 828.43px;
+    top: 3642.51px;
+    text-align: right;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16.56px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    color: #FB5875;
+}
+
+/*80% de nos étudiants*/
+.pourcent {
+    position: absolute;
+    width: 461px;
+    height: 85.56px;
+    left: 686.08px;
+    top: 3673.56px;
+    font-family: 'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 35.2px;
+    line-height: 42.78px;
+    text-align: right;
+    color: #000000;
+}
+
+
+.li-rect {
+    position: absolute;
+    width: 354.29px;
+    height: 389px;
+    top: 3912.3px;
+
+
+background: #F7F7F9;
+border-radius: 20px;
+
+display: flex;
+justify-content: space-around;
+
+}
+
+/*rectangle 27 Cedrick*/
+.rectangle-one {
+left: 47.18px;
+}
+/*ellipse ced*/
+.ellipse-171 {
+    position: absolute;
+    width: 96.6px;
+    height: 96.6px;
+    left: 27.6px;
+    top: 34.5px;
+border-radius :50%;
+  border:4px solid agency-text-white;
+  padding:4px;
+
+background: #FFFFFF;
+}
+
+.cedrick {
+	/* Cédric Maminjanahary */
+
+    position: absolute;
+    width: 184.65px;
+    height: 33.12px;
+    left: 151.8px;
+    top: 48.3px;
+    font-family:'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15.18px;
+    line-height: 165.52%;
+
+
+/* or 36px */
+letter-spacing: 0.015em;
+
+color: #000000;
+}
+
+.etud1 {
+	/* Etudiant SAYNA #1 Développeur @Accès Banque */
+    position: absolute;
+    width: 230.46px;
+    height: 24.84px;
+    left: 151.8px;
+    top: 82.8px;
+    font-family:'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16.56px;
+    letter-spacing: 0.03em;
+
+color: #FB5875;
+}
+
+/*temoignage cedrick*/
+.tem1 {
+    position: absolute;
+    width: 325.68px;
+    height: 284.28px;
+    left: 23.46px;
+    top: 103.5px;
+    font-family:'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+line-height: 165.52%;
+
+/* or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+
+/*lien cedrick*/
+.de {
+    position: absolute;
+   top: 231px;
+    /* left: 35px; */
+    font-size: 10px;
+}
+
+/*rectangle sahaza*/
+.rectangle-two{
+    left: 426.72px;
+}
+
+/*ellipse sahaza*/
+.ellipse-6 {
+    position: absolute;
+    width: 96px;
+    height: 96px;
+    left: 27.6px;
+    top: 34.5px;
+    border-radius :50%;
+  border:4px solid agency-text-white;
+  padding:4px;
+
+background: #FFFFFF;
+}
+
+.sahaza{
+	/* sahaza henintsoa */
+    position: absolute;
+    width: 159.65px;
+    height: 33.12px;
+    left: 151.8px;
+    top: 48.3px;
+
+
+font-family: 'Inter', 'sans-serif';
+font-style: normal;
+font-weight: normal;
+font-size: 15.18px;
+line-height: 165.52%;
+
+/* or 36px */
+letter-spacing: 0.015em;
+
+color: #000000;
+}
+
+.etud2 {
+	/* Etudiant SAYNA #1 Développeur @en2roues */
+    position: absolute;
+    width: 230.46px;
+    height: 24.84px;
+    left: 151.8px;
+    top: 82.8px;
+    font-family:'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16.56px;
+    letter-spacing: 0.03em;
+
+color: #FB5875;
+}
+
+/*temoignage sahaza*/
+.tem2 {
+    position: absolute;
+    width: 325.68px;
+    height: 284.28px;
+    left: 17.25px;
+    top: 103.5px;
+    font-family:'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 165.52%;
+/* or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+
+/*rectangle jenny*/
+.rectangle-three{
+    left: 804.95px;
+}
+
+/*ellipse jenny*/
+.ellipse-172 {
+    position: absolute;
+    width: 96.6px;
+    height: 96.6px;
+    left: 27.6px;
+    top: 34.5px;
+border-radius :50%;
+  border:4px solid agency-text-white;
+  padding:4px;
+
+background: #FFFFFF;
+}
+
+.jenny{
+	/* jenny*/
+    position: absolute;
+    width: 159.65px;
+    height: 33.12px;
+    left: 151.8px;
+    top: 48.3px;
+
+
+font-family: 'Inter', 'sans-serif';
+font-style: normal;
+font-weight: normal;
+font-size: 15.18px;
+line-height: 165.52%;
+
+/* or 36px */
+letter-spacing: 0.015em;
+
+color: #000000;
+}
+
+.etud3 {
+	/* Etudiant SAYNA #2 Développeur @Ingedata */
+    position: absolute;
+    width: 230.46px;
+    height: 24.84px;
+    left: 151.8px;
+    top: 82.8px;
+    font-family:'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+
+color: #FB5875;
+}
+
+/*temoignage jenny*/
+.tem3 {
+    position: absolute;
+    width: 230.68px;
+    height: 285px;
+    left: 49px;
+    top: 103.5px;
+    font-family:'Inter', 'sans-serif';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 165.52%;
+
+/* or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+.rectangle-28, .rectangle-27, .rectangle-29 {
+	display: flex;
+	justify-content: space-around;
+}
+.assemble-2{
+    /* Group 12 */
+
+    position: absolute;
+    width: 612.31px;
+    height: 477.7px;
+    left: 602px;
+    top: 1792.3px;
+}
+.doogles-perso{
+
+    position: absolute;
+    /* width: 1324.8px;
+    height: 2437.77px; */
+    left: 0px;
+    top: 174.57px;
+
+}
+.GrosCarre{
+
+/* position: absolute; */
+    /* width: 1896.99px;
+    height: 2080px; */
+    left: -286.35px;
+    top: 1911.3px;
+
+}
+/*-----------SLIDE PHOTOS ----------*/
+#fenetre {
+    position: relative;
+    top: 4936.8px;
+    width: 689px;
+    height: 350px;
+     overflow-x: scroll;
+    /* overflow: hidden; */
+
+   }
+   .student-image {
+  
+    width: 209.1px;
+    height: 312.6px;
+    left: 528.5px;
+    top: 5368.9px;
+    border-radius: 20px;
+    margin-left: 15px;
+    display: inline-block;
+   }
+   #container{
+     width:1200px;
+   }
+/* .slideshow:hover{
+    position: relative;
+    left: 0px;
+    -webkit-animation: moveSlideshow 20s linear infinite;
+    -moz-animation: moveSlideshow 20s linear infinite;
+}
+
+
+.student-image {
+  
+width: 209.1px;
+height: 312.6px;
+left: 528.5px;
+top: 5368.9px;
+border-radius: 20px;
+
+}
+
+@-webkit-keyframes moveSlideshow {
+    0% {
+        -webkit-transform: translateX(0);
+    }
+    100% {
+        -webkit-transform: translateX(100%);
+    }
+}
+@-moz-keyframes moveSlideshow {
+    0% {
+        -moz-transform: translateX(0);
+    }
+    100% {
+        -moz-transform: translateX(100%);
+    }
+} */
